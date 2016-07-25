@@ -1,0 +1,7 @@
+1	English_Writing
+1	"Freelancer_level: entry,intermediate,expert"
+2	Dropbox_account
+3	Abode_Photoshop
+3	Adobe_Ilustrator
+3	Photo_editing
+3	"Freelancer_level: entry,intermediate,expert"
