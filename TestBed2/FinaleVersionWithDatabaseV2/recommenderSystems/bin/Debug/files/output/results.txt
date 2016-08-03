@@ -1,0 +1,1457 @@
+Casual Card Game Design Needed	9.77806645997792	Casual Card Game Design Needed	10	100	1
+[Hip-Hop/Rap] New Music Survey 	9.27991965118562	[Hip-Hop/Rap] New Music Survey 	10	100	1
+[Hip-Hop/Rap] New Music Survey 	9.27991965118562	Listen to a song and answer a survey about it	6	100	1
+Image caption editing: Boring image caption to romantic image caption	9.09144679963971	Please find missing fields	8	100	1
+OurEuphoria: Sign up	8.98774735045085	OurEuphoria: Sign up	10	100	1
+RD2: Comment on Video	8.87696351220576	RD2: Comment on Video	10	100	1
+RD2: Comment on Video	8.87696351220576	Youtube: Comment + Subscribe	9	100	1
+RD2: Comment on Video	8.87696351220576	You like and comment on youtube Videos	9	100	1
+Send a preformatted email to a list of contact (through mail form)	8.85528223673751	3D game	6	100	1
+Send a preformatted email to a list of contact (through mail form)	8.85528223673751	Triple	2	100	1
+Send a preformatted email to a list of contact (through mail form)	8.85528223673751	Send a preformatted email to a list of contact (through mail form)	10	100	1
+Business Logo	8.84001459621762	Business Logo	10	100	1
+You like and comment on youtube Videos	8.79670030174304	RD2: Comment on Video	10	100	1
+You like and comment on youtube Videos	8.79670030174304	Youtube: Comment + Subscribe	9	100	1
+You like and comment on youtube Videos	8.79670030174304	You like and comment on youtube Videos	9	100	1
+Order Russion to English translation by their quality	8.78261363572202	Order Russion to English translation by their quality	9	100	1
+Start development and designing of a mobile phone app	8.74397901546763	Start development and designing of a mobile phone app	9	100	1
+Job for IOS Device	9.24740396108028	Job for IOS Device	10	100	2
+Send a preformatted email to a list of contact (through mail form)	9.19146306748935	3D game	1	100	2
+Send a preformatted email to a list of contact (through mail form)	9.19146306748935	Triple	8	100	2
+Send a preformatted email to a list of contact (through mail form)	9.19146306748935	Mip: Sign up + Screenshot	7	100	2
+Casual Card Game Design Needed	9.16840290101376	Casual Card Game Design Needed	10	100	2
+Start development and designing of a mobile phone app	9.1279047968095	Start development and designing of a mobile phone app	10	100	2
+OurEuphoria: Sign up	9.0474489606195	TTV-Share a page on your Facebook	4	100	2
+OurEuphoria: Sign up	9.0474489606195	OurEuphoria: Sign up	9	100	2
+Ecommerce website need	9.02799471883297	Ecommerce website need	9	100	2
+Write a short summary of a company	8.98567734858922	Write a short summary of a company	10	100	2
+Please find missing fields	8.87886212419567	Please find missing fields	10	100	2
+Please find missing fields	8.87886212419567	Write an Honest Review/Opinion: Your Card	8	100	2
+Please find missing fields	8.87886212419567	Image caption editing: Boring image caption to romantic image caption	8	100	2
+Find User Location Given Social Media Links	8.86252182382298	Find User Location Given Social Media Links	8	100	2
+HTML and CSS	8.79726268615821	HTML and CSS	8	100	2
+Download my ebook	9.54739207344915	Download my ebook	10	100	3
+Find User Location Given Social Media Links	9.31088338973439	Find User Location Given Social Media Links	10	100	3
+Please find missing fields	9.24559541801012	Please find missing fields	10	100	3
+Please find missing fields	9.24559541801012	Write an Honest Review/Opinion: Your Card	8	100	3
+Please find missing fields	9.24559541801012	Image caption editing: Boring image caption to romantic image caption	10	100	3
+Tell a short story about your friend	9.18130361374892	Calling	6	100	3
+Tell a short story about your friend	9.18130361374892	Pictures in the Clouds	9	100	3
+Tell a short story about your friend	9.18130361374892	Tell a short story about your friend	9	100	3
+Ecommerce website need	9.10820925758862	Ecommerce website need	9	100	3
+3D game	9.00597730535623	3D game	10	100	3
+3D game	9.00597730535623	Triple	10	100	3
+3D game	9.00597730535623	Send a preformatted email to a list of contact (through mail form)	9	100	3
+Development	8.99115079172144	Development	9	100	3
+Collect taxi fleets in a given U.S. city	9.67415615597061	Collect taxi fleets in a given U.S. city	10	100	4
+Collect taxi fleets in a given U.S. city	9.67415615597061	Collect Information about a given taxi fleet	10	100	4
+OurEuphoria: Sign up	9.62987020823927	Facebook vote/support: Team	8	100	4
+OurEuphoria: Sign up	9.62987020823927	OurEuphoria: Sign up	10	100	4
+Start development and designing of a mobile phone app	9.61524662058535	Start development and designing of a mobile phone app	10	100	4
+Collect Information about a given taxi fleet	9.57901287832506	Collect taxi fleets in a given U.S. city	10	100	4
+Collect Information about a given taxi fleet	9.57901287832506	Collect Information about a given taxi fleet	10	100	4
+Triple	9.51223055270471	3D game	4	100	4
+Triple	9.51223055270471	Triple	10	100	4
+Triple	9.51223055270471	Send a preformatted email to a list of contact (through mail form)	9	100	4
+Ecommerce website need	9.22063225622956	Ecommerce website need	10	100	4
+Collect Product Information	9.18542507806486	Collect Product Information	10	100	4
+NAS SS Search + Visit + Screenshot	9.18106453966029	NAS SS Search + Visit + Screenshot	10	100	4
+NAS SS Search + Visit + Screenshot	9.18106453966029	Test Android App in 3 simple steps and answer simple questions	4	100	4
+NAS SS Search + Visit + Screenshot	9.18106453966029	Testing: speak 36 short sentences in English on your Android Device	8	100	4
+Two pages from Russian to English	9.09791262027508	Two pages from Russian to English	9	100	4
+Collect Product Information	9.5164498201229	Collect Product Information	10	100	5
+Development	9.4732552254388	Development	10	100	5
+Dress Website	9.45673611857944	Dress Website	10	100	5
+OurEuphoria: Sign up	9.43393907275208	OurEuphoria: Sign up	10	100	5
+Type Word	9.29839513523061	Type Word	9	100	5
+Testing: speak 36 short sentences in English on your Android Device	9.2902699296436	Android App Testing	7	100	5
+Testing: speak 36 short sentences in English on your Android Device	9.2902699296436	Testing: speak 36 short sentences in English on your Android Device	10	100	5
+Find User Location Given Social Media Links	9.27509684977961	Find User Location Given Social Media Links	8	100	5
+Download my ebook	9.21283438753931	Download my ebook	10	100	5
+Send a preformatted email to a list of contact (through mail form)	9.1169815480152	Triple	9	100	5
+Send a preformatted email to a list of contact (through mail form)	9.1169815480152	Mip: Sign up + Screenshot	8	100	5
+Send a preformatted email to a list of contact (through mail form)	9.1169815480152	Send a preformatted email to a list of contact (through mail form)	10	100	5
+Marketing Agency	9.10914791539388	Marketing Agency	10	100	5
+Collect taxi fleets in a given U.S. city	9.44303786976805	Collect taxi fleets in a given U.S. city	10	100	6
+Collect taxi fleets in a given U.S. city	9.44303786976805	Collect Information about a given taxi fleet	9	100	6
+Pictures in the Clouds	9.34669295612406	Pictures in the Clouds	10	100	6
+Pictures in the Clouds	9.34669295612406	Tell a short story about your friend	8	100	6
+Image recognition	9.14302052914607	Image recognition	10	100	6
+Image recognition	9.14302052914607	View a webpage and tell us whether it is helpful	7	100	6
+Job for IOS Device	9.00773943478216	Job for IOS Device	10	100	6
+Write a short summary of a company	8.81475104566325	Write a short summary of a company	9	100	6
+Find User Location Given Social Media Links	8.7678176028925	Find User Location Given Social Media Links	9	100	6
+Dress Website	8.7671227163488	Dress Website	10	100	6
+Guide writer	8.75724766690717	Keyword optimized blog posts	6	100	6
+Guide writer	8.75724766690717	Guide writer	10	100	6
+Send a preformatted email to a list of contact (through mail form)	8.72412682312523	Triple	9	100	6
+Send a preformatted email to a list of contact (through mail form)	8.72412682312523	Mip: Sign up + Screenshot	9	100	6
+Send a preformatted email to a list of contact (through mail form)	8.72412682312523	Send a preformatted email to a list of contact (through mail form)	10	100	6
+Please find missing fields	8.5904358163719	Please find missing fields	9	100	6
+Please find missing fields	8.5904358163719	Write an Honest Review/Opinion: Your Card	8	100	6
+Please find missing fields	8.5904358163719	Image caption editing: Boring image caption to romantic image caption	9	100	6
+Two pages from Russian to English	8.90969974766039	Two pages from Russian to English	10	100	7
+Find User Location Given Social Media Links	8.87193888866035	Find User Location Given Social Media Links	9	100	7
+Extract purchased items from a shopping receipt	8.84012542457605	Extract purchased items from a shopping receipt	10	100	7
+Triple	8.8162582501135	3D game	2	100	7
+Triple	8.8162582501135	Triple	10	100	7
+Triple	8.8162582501135	Send a preformatted email to a list of contact (through mail form)	9	100	7
+Dress Website	8.81280826960699	Dress Website	9	100	7
+Collect Information about a given taxi fleet	8.73169234661404	Collect taxi fleets in a given U.S. city	8	100	7
+Collect Information about a given taxi fleet	8.73169234661404	Collect Information about a given taxi fleet	9	100	7
+HTML and CSS	8.71448776387747	HTML and CSS	10	100	7
+Send a preformatted email to a list of contact (through mail form)	8.70601693627913	3D game	2	100	7
+Send a preformatted email to a list of contact (through mail form)	8.70601693627913	Triple	10	100	7
+Send a preformatted email to a list of contact (through mail form)	8.70601693627913	Send a preformatted email to a list of contact (through mail form)	9	100	7
+You like and comment on youtube Videos	8.6868430418498	RD2: Comment on Video	5	100	7
+You like and comment on youtube Videos	8.6868430418498	Youtube: Comment + Subscribe	8	100	7
+You like and comment on youtube Videos	8.6868430418498	Youtube: Search + Watch + Screenshot	7	100	7
+You like and comment on youtube Videos	8.6868430418498	You like and comment on youtube Videos	9	100	7
+Add atmosphere to architectural renderings in photoshop	8.6528900407878	Add atmosphere to architectural renderings in photoshop	9	100	7
+Image recognition	9.52376119781183	Image recognition	10	100	8
+Image recognition	9.52376119781183	View a webpage and tell us whether it is helpful	6	100	8
+Triple	9.51500431665929	Mip: Sign up + Screenshot	9	100	8
+Triple	9.51500431665929	Send a preformatted email to a list of contact (through mail form)	8	100	8
+Casual Card Game Design Needed	9.46546619579854	Casual Card Game Design Needed	10	100	8
+Looking for android developer	9.38641797370128	Looking for android developer	10	100	8
+Dress Website	9.3556118592823	Dress Website	10	100	8
+Job for IOS Device	9.34226557902018	Job for IOS Device	10	100	8
+Extract purchased items from a shopping receipt	9.29056854503387	Extract purchased items from a shopping receipt	10	100	8
+Logo size changes	9.2097035981423	Logo size changes	10	100	8
+Dedicated writer (Smart home) 	9.12865770037655	Dedicated writer (Smart home) 	9	100	8
+Dedicated writer (Smart home) 	9.12865770037655	Translate PO file from English to Portuguese	7	75	8
+OurEuphoria: Sign up	9.3744405900986	Facebook vote/support: Team	8	100	9
+OurEuphoria: Sign up	9.3744405900986	OurEuphoria: Sign up	10	100	9
+Job for IOS Device	9.29466467123935	Job for IOS Device	10	100	9
+Image recognition	9.19620882252687	Copy paste 4 fields of information from a profile page	5	100	9
+Image recognition	9.19620882252687	Image recognition	10	100	9
+Image recognition	9.19620882252687	Play the GuesWhat!?	7	100	9
+Image recognition	9.19620882252687	View a webpage and tell us whether it is helpful	10	100	9
+Transcribe up 35s of media into text	9.11475400002031	Transcribe up 35s of media into text	10	100	9
+Dress Website	9.10388457003033	Dress Website	9	100	9
+Dedicated writer (Smart home) 	9.05147022829124	Dedicated writer (Smart home) 	9	100	9
+RD2: Comment on Video	9.03872235602222	RD2: Comment on Video	10	100	9
+RD2: Comment on Video	9.03872235602222	Youtube: Comment + Subscribe	5	100	9
+RD2: Comment on Video	9.03872235602222	Youtube: Search + Watch + Screenshot	6	100	9
+You like and comment on youtube Videos	8.99436568686212	RD2: Comment on Video	10	100	9
+You like and comment on youtube Videos	8.99436568686212	Youtube: Comment + Subscribe	5	100	9
+You like and comment on youtube Videos	8.99436568686212	Youtube: Search + Watch + Screenshot	6	100	9
+Add atmosphere to architectural renderings in photoshop	8.92397345886639	Add atmosphere to architectural renderings in photoshop	9	100	9
+Image recognition	9.62423622846449	Image recognition	10	100	10
+Image recognition	9.62423622846449	View a webpage and tell us whether it is helpful	8	100	10
+Collect Product Information	9.61193389878274	Collect Product Information	10	100	10
+Job for IOS Device	9.55362465417948	Job for IOS Device	10	100	10
+Add atmosphere to architectural renderings in photoshop	9.18732240344809	Add atmosphere to architectural renderings in photoshop	10	100	10
+Add atmosphere to architectural renderings in photoshop	9.18732240344809	Dropbox_upload	9	75	10
+Collect taxi fleets in a given U.S. city	9.03982369790434	Collect taxi fleets in a given U.S. city	10	100	10
+Find User Location Given Social Media Links	8.91114220586001	Find User Location Given Social Media Links	10	100	10
+Looking for android developer	8.90598045821849	Looking for android developer	9	100	10
+Dress Website	8.85861969644858	Dress Website	8	100	10
+Start development and designing of a mobile phone app	8.7979471656175	Start development and designing of a mobile phone app	10	100	10
+Type Word	8.76084303853236	Type Word	9	100	10
+Job for IOS Device	9.53660866919013	Job for IOS Device	10	100	11
+Two pages from Russian to English	9.40596078883906	Two pages from Russian to English	9	100	11
+Casual Card Game Design Needed	9.26647947142209	Casual Card Game Design Needed	8	100	11
+Please find missing fields	9.1133140470908	Please find missing fields	10	100	11
+Dedicated writer (Smart home) 	8.99859582440771	Dedicated writer (Smart home) 	10	100	11
+Type Word	8.98561948104519	Type Word	9	100	11
+Listen to a song and answer a survey about it	8.95725410408897	Listen to a song and answer a survey about it	10	100	11
+Write an Honest Review/Opinion: Your Card	8.91741382512477	Please find missing fields	10	100	11
+Desktop publisher	8.91410658638537	Desktop publisher	10	100	11
+Development	9.05234031106485	Development	10	100	12
+Logo size changes	9.03434065058379	Logo size changes	10	100	12
+Extract purchased items from a shopping receipt	8.95084716791523	Extract purchased items from a shopping receipt	10	100	12
+Test Android App in 3 simple steps and answer simple questions	8.93252471693589	NAS SS Search + Visit + Screenshot	9	100	12
+Test Android App in 3 simple steps and answer simple questions	8.93252471693589	Test Android App in 3 simple steps and answer simple questions	10	100	12
+Test Android App in 3 simple steps and answer simple questions	8.93252471693589	Android App Testing	10	100	12
+Test Android App in 3 simple steps and answer simple questions	8.93252471693589	Testing: speak 36 short sentences in English on your Android Device	6	100	12
+Write an Honest Review/Opinion: Your Card	8.81784309455291	Please find missing fields	9	100	12
+Write an Honest Review/Opinion: Your Card	8.81784309455291	Image caption editing: Boring image caption to romantic image caption	6	100	12
+Desktop publisher	8.80452920889919	Desktop publisher	10	100	12
+Dress Website	8.79677076619942	Dress Website	9	100	12
+Collect Product Information	8.76121909239982	Collect Product Information	10	100	12
+Script translated from English to Russian	8.75524357593474	Script translated from English to Russian	10	100	12
+Find User Location Given Social Media Links	8.63065557935821	Find User Location Given Social Media Links	9	100	12
+NAS SS Search + Visit + Screenshot	9.26213667710744	NAS SS Search + Visit + Screenshot	10	100	13
+NAS SS Search + Visit + Screenshot	9.26213667710744	Android App Testing	9	100	13
+NAS SS Search + Visit + Screenshot	9.26213667710744	Testing: speak 36 short sentences in English on your Android Device	10	100	13
+Desktop publisher	9.22493092053048	Desktop publisher	10	100	13
+Dedicated writer (Smart home) 	9.21384043392625	Dedicated writer (Smart home) 	10	100	13
+OurEuphoria: Sign up	9.10103763509253	Facebook vote/support: Team	2	100	13
+OurEuphoria: Sign up	9.10103763509253	OurEuphoria: Sign up	10	100	13
+Two pages from Russian to English	8.96780861443662	Two pages from Russian to English	10	100	13
+Please find missing fields	8.82938139368211	Please find missing fields	8	100	13
+Please find missing fields	8.82938139368211	Write an Honest Review/Opinion: Your Card	7	100	13
+Please find missing fields	8.82938139368211	Image caption editing: Boring image caption to romantic image caption	6	100	13
+3D game	8.82420599298373	3D game	10	100	13
+3D game	8.82420599298373	Triple	9	100	13
+3D game	8.82420599298373	Mip: Sign up + Screenshot	4	100	13
+3D game	8.82420599298373	Send a preformatted email to a list of contact (through mail form)	9	100	13
+Casual Card Game Design Needed	8.78036229065735	Casual Card Game Design Needed	9	100	13
+Aligning Words	8.77829595170046	Aligning Words	10	100	13
+Development	8.74167013939495	Development	9	100	13
+Two pages from Russian to English	9.69847653711554	Two pages from Russian to English	9	100	14
+Casual Card Game Design Needed	9.30339470884303	Casual Card Game Design Needed	10	100	14
+Triple	9.15136212083586	3D game	4	100	14
+Triple	9.15136212083586	Triple	10	100	14
+Triple	9.15136212083586	Mip: Sign up + Screenshot	8	100	14
+Triple	9.15136212083586	Send a preformatted email to a list of contact (through mail form)	10	100	14
+Android App Testing	9.13587062904336	NAS SS Search + Visit + Screenshot	7	100	14
+Android App Testing	9.13587062904336	Android App Testing	9	100	14
+Android App Testing	9.13587062904336	Testing: speak 36 short sentences in English on your Android Device	10	100	14
+Please find missing fields	9.08400503445208	Please find missing fields	10	100	14
+Please find missing fields	9.08400503445208	Image caption editing: Boring image caption to romantic image caption	3	100	14
+You like and comment on youtube Videos	9.01780548588697	RD2: Comment on Video	8	100	14
+You like and comment on youtube Videos	9.01780548588697	You like and comment on youtube Videos	10	100	14
+Collect Product Information	8.86940865837169	Collect Product Information	9	100	14
+Testing: speak 36 short sentences in English on your Android Device	8.84140042419534	NAS SS Search + Visit + Screenshot	7	100	14
+Testing: speak 36 short sentences in English on your Android Device	8.84140042419534	Android App Testing	9	100	14
+Testing: speak 36 short sentences in English on your Android Device	8.84140042419534	Testing: speak 36 short sentences in English on your Android Device	10	100	14
+Development	8.82172924265148	Development	8	100	14
+Looking for android developer	8.79402313409316	Looking for android developer	9	100	14
+Two pages from Russian to English	9.26320506120046	Two pages from Russian to English	10	100	15
+Dress Website	9.09259017157107	Dress Website	10	100	15
+Develop a hybrid social App	9.0762271612205	Develop a hybrid social App	10	100	15
+Development	9.05843636303742	Development	10	100	15
+Testing: speak 36 short sentences in English on your Android Device	8.97850666702542	NAS SS Search + Visit + Screenshot	9	100	15
+Testing: speak 36 short sentences in English on your Android Device	8.97850666702542	Test Android App in 3 simple steps and answer simple questions	10	100	15
+Testing: speak 36 short sentences in English on your Android Device	8.97850666702542	Android App Testing	7	100	15
+Testing: speak 36 short sentences in English on your Android Device	8.97850666702542	Testing: speak 36 short sentences in English on your Android Device	10	100	15
+Please find missing fields	8.96823009507088	Please find missing fields	10	100	15
+Youtube: Comment + Subscribe	8.94652637780124	Youtube: Comment + Subscribe	10	100	15
+Youtube: Comment + Subscribe	8.94652637780124	You like and comment on youtube Videos	8	100	15
+Looking for android developer	8.94493600052026	Looking for android developer	8	100	15
+Collect Information about a given taxi fleet	8.92343427114437	Collect taxi fleets in a given U.S. city	5	100	15
+Find User Location Given Social Media Links	8.80811567036088	Find User Location Given Social Media Links	9	100	15
+Collect taxi fleets in a given U.S. city	9.40880146583791	Collect taxi fleets in a given U.S. city	10	100	16
+Collect taxi fleets in a given U.S. city	9.40880146583791	Collect Information about a given taxi fleet	9	100	16
+Send a preformatted email to a list of contact (through mail form)	9.28034345760839	3D game	7	100	16
+Send a preformatted email to a list of contact (through mail form)	9.28034345760839	Triple	10	100	16
+Send a preformatted email to a list of contact (through mail form)	9.28034345760839	Mip: Sign up + Screenshot	9	100	16
+Send a preformatted email to a list of contact (through mail form)	9.28034345760839	Send a preformatted email to a list of contact (through mail form)	10	100	16
+Two pages from Russian to English	9.26137765063051	Two pages from Russian to English	10	100	16
+Image recognition	9.25560337980708	Image recognition	10	100	16
+Triple	9.11130366939785	3D game	7	100	16
+Triple	9.11130366939785	Triple	10	100	16
+Triple	9.11130366939785	Mip: Sign up + Screenshot	9	100	16
+Triple	9.11130366939785	Send a preformatted email to a list of contact (through mail form)	10	100	16
+Desktop publisher	9.02176020176215	Desktop publisher	10	100	16
+Add atmosphere to architectural renderings in photoshop	8.92354829841814	Add atmosphere to architectural renderings in photoshop	10	100	16
+Add atmosphere to architectural renderings in photoshop	8.92354829841814	Dropbox_upload	5	75	16
+Write a short summary of a company	8.87201728706345	Write a short summary of a company	10	100	16
+Please find missing fields	8.85779896364167	Please find missing fields	10	100	16
+Please find missing fields	8.85779896364167	Image caption editing: Boring image caption to romantic image caption	8	100	16
+Ecommerce website need	8.81861116717817	Ecommerce website need	9	100	16
+Collect Information about a given taxi fleet	9.38276217510017	Collect taxi fleets in a given U.S. city	9	100	17
+Collect Information about a given taxi fleet	9.38276217510017	Collect Information about a given taxi fleet	10	100	17
+Desktop publisher	9.248070714959	Desktop publisher	10	100	17
+OurEuphoria: Sign up	9.21017185401381	TTV-Share a page on your Facebook	4	100	17
+OurEuphoria: Sign up	9.21017185401381	OurEuphoria: Sign up	10	100	17
+Ecommerce website need	9.15584610822089	Ecommerce website need	10	100	17
+Development	9.0918146443573	Development	10	100	17
+Casual Card Game Design Needed	8.99619738397377	Casual Card Game Design Needed	9	100	17
+Start development and designing of a mobile phone app	8.97006525510839	Start development and designing of a mobile phone app	10	100	17
+You like and comment on youtube Videos	8.94674677065869	RD2: Comment on Video	9	100	17
+You like and comment on youtube Videos	8.94674677065869	Youtube: Comment + Subscribe	6	100	17
+You like and comment on youtube Videos	8.94674677065869	You like and comment on youtube Videos	9	100	17
+NAS SS Search + Visit + Screenshot	8.89287717822437	Testing: speak 36 short sentences in English on your Android Device	5	100	17
+Add atmosphere to architectural renderings in photoshop	8.84150430832843	Add atmosphere to architectural renderings in photoshop	9	100	17
+NAS SS Search + Visit + Screenshot	9.48963175806332	NAS SS Search + Visit + Screenshot	10	100	18
+NAS SS Search + Visit + Screenshot	9.48963175806332	Test Android App in 3 simple steps and answer simple questions	3	100	18
+NAS SS Search + Visit + Screenshot	9.48963175806332	Android App Testing	7	100	18
+Tell a short story about your friend	9.44822338282514	Pictures in the Clouds	10	100	18
+Tell a short story about your friend	9.44822338282514	Tell a short story about your friend	10	100	18
+Please find missing fields	9.39435899995975	Please find missing fields	10	100	18
+Please find missing fields	9.39435899995975	Write an Honest Review/Opinion: Your Card	8	100	18
+Pinterest Pin: Houseplangallery	9.34739084476193	Pinterest Pin: Houseplangallery	10	100	18
+Two pages from Russian to English	9.34626594640492	Two pages from Russian to English	10	100	18
+Add atmosphere to architectural renderings in photoshop	9.32812692140778	Add atmosphere to architectural renderings in photoshop	10	100	18
+Add atmosphere to architectural renderings in photoshop	9.32812692140778	Dropbox_upload	10	75	18
+Find User Location Given Social Media Links	9.32313642582034	Find User Location Given Social Media Links	9	100	18
+Image recognition	9.29679344719393	Image recognition	10	100	18
+Image recognition	9.29679344719393	View a webpage and tell us whether it is helpful	7	100	18
+Dress Website	9.23663568969571	Dress Website	9	100	18
+Dedicated writer (Smart home) 	9.20788573744335	Dedicated writer (Smart home) 	10	100	18
+Please find missing fields	9.74806047342694	Please find missing fields	10	100	19
+Please find missing fields	9.74806047342694	Write an Honest Review/Opinion: Your Card	8	100	19
+Please find missing fields	9.74806047342694	Image caption editing: Boring image caption to romantic image caption	9	100	19
+You like and comment on youtube Videos	9.60216471821022	RD2: Comment on Video	1	100	19
+You like and comment on youtube Videos	9.60216471821022	Youtube: Comment + Subscribe	7	100	19
+You like and comment on youtube Videos	9.60216471821022	Youtube: Search + Watch + Screenshot	10	100	19
+You like and comment on youtube Videos	9.60216471821022	You like and comment on youtube Videos	10	100	19
+Casual Card Game Design Needed	9.28425890789438	Casual Card Game Design Needed	10	100	19
+Ecommerce website need	9.26645591350888	Ecommerce website need	10	100	19
+Two pages from Russian to English	9.10569599779892	Two pages from Russian to English	10	100	19
+Extract purchased items from a shopping receipt	9.10100241915246	Extract purchased items from a shopping receipt	9	100	19
+Android App Testing	8.96052903430034	NAS SS Search + Visit + Screenshot	10	100	19
+Android App Testing	8.96052903430034	Test Android App in 3 simple steps and answer simple questions	7	100	19
+Android App Testing	8.96052903430034	Android App Testing	10	100	19
+Android App Testing	8.96052903430034	Testing: speak 36 short sentences in English on your Android Device	9	100	19
+Mip: Sign up + Screenshot	8.83452336124621	Triple	9	100	19
+Mip: Sign up + Screenshot	8.83452336124621	Mip: Sign up + Screenshot	10	100	19
+Mip: Sign up + Screenshot	8.83452336124621	Send a preformatted email to a list of contact (through mail form)	8	100	19
+Download my ebook	9.44143619173714	Download my ebook	10	100	20
+Tell a short story about your friend	9.28966452571893	Calling	8	100	20
+Tell a short story about your friend	9.28966452571893	Tell a short story about your friend	10	100	20
+Send a preformatted email to a list of contact (through mail form)	9.1181887748133	3D game	4	100	20
+Send a preformatted email to a list of contact (through mail form)	9.1181887748133	Mip: Sign up + Screenshot	8	100	20
+Send a preformatted email to a list of contact (through mail form)	9.1181887748133	Send a preformatted email to a list of contact (through mail form)	10	100	20
+Business Logo	9.02166858854652	Business Logo	10	100	20
+HTML and CSS	9.01429128494723	HTML and CSS	10	100	20
+Casual Card Game Design Needed	8.98403232843792	Casual Card Game Design Needed	10	100	20
+Image caption editing: Boring image caption to romantic image caption	8.91335415332681	Please find missing fields	9	100	20
+Image caption editing: Boring image caption to romantic image caption	8.91335415332681	Write an Honest Review/Opinion: Your Card	7	100	20
+Image caption editing: Boring image caption to romantic image caption	8.91335415332681	Image caption editing: Boring image caption to romantic image caption	10	100	20
+Testing: speak 36 short sentences in English on your Android Device	8.71289372126251	NAS SS Search + Visit + Screenshot	8	100	20
+Testing: speak 36 short sentences in English on your Android Device	8.71289372126251	Test Android App in 3 simple steps and answer simple questions	1	100	20
+Testing: speak 36 short sentences in English on your Android Device	8.71289372126251	Android App Testing	10	100	20
+Testing: speak 36 short sentences in English on your Android Device	8.71289372126251	Testing: speak 36 short sentences in English on your Android Device	10	100	20
+Type Word	8.66547056006617	Type Word	9	100	20
+Guide writer	8.59446889544088	Guide writer	9	100	20
+Job for IOS Device	9.09770157748651	Job for IOS Device	10	100	21
+Find User Location Given Social Media Links	9.06682862052754	Find User Location Given Social Media Links	9	100	21
+Collect Product Information	9.00963141127083	Collect Product Information	9	100	21
+Two pages from Russian to English	8.95885597722033	Two pages from Russian to English	10	100	21
+You like and comment on youtube Videos	8.83323580193515	RD2: Comment on Video	10	100	21
+You like and comment on youtube Videos	8.83323580193515	You like and comment on youtube Videos	10	100	21
+Dress Website	8.83061944333864	Dress Website	9	100	21
+Casual Card Game Design Needed	8.82719168601672	Casual Card Game Design Needed	9	100	21
+RD2: Comment on Video	8.78514750840073	RD2: Comment on Video	10	100	21
+RD2: Comment on Video	8.78514750840073	You like and comment on youtube Videos	10	100	21
+Collect taxi fleets in a given U.S. city	8.73969903855387	Collect taxi fleets in a given U.S. city	10	100	21
+Collect taxi fleets in a given U.S. city	8.73969903855387	Collect Information about a given taxi fleet	8	100	21
+Please find missing fields	8.68517366946951	Please find missing fields	9	100	21
+Please find missing fields	8.68517366946951	Write an Honest Review/Opinion: Your Card	9	100	21
+Please find missing fields	8.68517366946951	Image caption editing: Boring image caption to romantic image caption	8	100	21
+Collect taxi fleets in a given U.S. city	9.92282640659528	Collect Information about a given taxi fleet	8	100	22
+Image caption editing: Boring image caption to romantic image caption	9.31198910632319	Please find missing fields	9	100	22
+Image caption editing: Boring image caption to romantic image caption	9.31198910632319	Write an Honest Review/Opinion: Your Card	8	100	22
+Image caption editing: Boring image caption to romantic image caption	9.31198910632319	Image caption editing: Boring image caption to romantic image caption	10	100	22
+Please find missing fields	9.25933626986195	Please find missing fields	9	100	22
+Please find missing fields	9.25933626986195	Write an Honest Review/Opinion: Your Card	8	100	22
+Please find missing fields	9.25933626986195	Image caption editing: Boring image caption to romantic image caption	10	100	22
+Extract purchased items from a shopping receipt	9.24083283569237	Extract purchased items from a shopping receipt	10	100	22
+Dedicated writer (Smart home) 	9.18548588262802	Dedicated writer (Smart home) 	10	100	22
+Order Russion to English translation by their quality	9.0631822404839	Order Russion to English translation by their quality	10	100	22
+Dress Website	9.05478459293172	Dress Website	10	100	22
+Collect Product Information	8.85907483256225	Collect Product Information	9	100	22
+Job for IOS Device	8.85544211718789	Job for IOS Device	9	100	22
+Triple	9.36014628713734	Triple	10	100	23
+Write a short summary of a company	9.20562270923587	Write a short summary of a company	10	100	23
+Develop a hybrid social App	8.76478318385927	Develop a hybrid social App	10	100	23
+Please find missing fields	8.70982434652475	Please find missing fields	9	100	23
+Please find missing fields	8.70982434652475	Write an Honest Review/Opinion: Your Card	6	100	23
+Please find missing fields	8.70982434652475	Image caption editing: Boring image caption to romantic image caption	8	100	23
+Tell a short story about your friend	8.68734227303523	Calling	9	100	23
+Tell a short story about your friend	8.68734227303523	Tell a short story about your friend	9	100	23
+Ecommerce website need	8.67433905799311	Ecommerce website need	9	100	23
+Collect Information about a given taxi fleet	8.53677183986193	Collect Information about a given taxi fleet	10	100	23
+Image recognition	8.50041253478291	Image recognition	10	100	23
+Image recognition	8.50041253478291	Play the GuesWhat!?	1	100	23
+Looking for android developer	8.46661096600802	Looking for android developer	9	100	23
+Dress Website	8.45223941881316	Dress Website	9	100	23
+OurEuphoria: Sign up	9.23974057561545	Facebook vote/support: Team	8	100	24
+OurEuphoria: Sign up	9.23974057561545	OurEuphoria: Sign up	10	100	24
+Ecommerce website need	9.22636569424587	Ecommerce website need	10	100	24
+Tell a short story about your friend	9.22512577621082	Pictures in the Clouds	8	100	24
+Tell a short story about your friend	9.22512577621082	Tell a short story about your friend	10	100	24
+Please find missing fields	9.20250231765651	Please find missing fields	10	100	24
+Please find missing fields	9.20250231765651	Write an Honest Review/Opinion: Your Card	6	100	24
+Please find missing fields	9.20250231765651	Image caption editing: Boring image caption to romantic image caption	2	100	24
+Develop a hybrid social App	9.11042368313955	Develop a hybrid social App	9	100	24
+Collect taxi fleets in a given U.S. city	9.05194603020985	Collect taxi fleets in a given U.S. city	10	100	24
+Collect taxi fleets in a given U.S. city	9.05194603020985	Collect Information about a given taxi fleet	9	100	24
+Collect Product Information	9.03961636881475	Collect Product Information	10	100	24
+Add atmosphere to architectural renderings in photoshop	8.90638186964953	Add atmosphere to architectural renderings in photoshop	9	100	24
+Start development and designing of a mobile phone app	8.75892709260515	Start development and designing of a mobile phone app	10	100	24
+Aligning Words	8.74079938252534	Aligning Words	10	100	24
+Dedicated writer (Smart home) 	9.03599771666146	Dedicated writer (Smart home) 	10	100	25
+Extract purchased items from a shopping receipt	9.03088676261927	Extract purchased items from a shopping receipt	10	100	25
+Job for IOS Device	8.93425565704143	Job for IOS Device	10	100	25
+Please find missing fields	8.82329767111458	Please find missing fields	9	100	25
+Please find missing fields	8.82329767111458	Write an Honest Review/Opinion: Your Card	8	100	25
+Please find missing fields	8.82329767111458	Image caption editing: Boring image caption to romantic image caption	8	100	25
+Dress Website	8.80463020456113	Dress Website	10	100	25
+Send a preformatted email to a list of contact (through mail form)	8.58877093207872	3D game	4	100	25
+Send a preformatted email to a list of contact (through mail form)	8.58877093207872	Triple	4	100	25
+Send a preformatted email to a list of contact (through mail form)	8.58877093207872	Mip: Sign up + Screenshot	8	100	25
+Send a preformatted email to a list of contact (through mail form)	8.58877093207872	Send a preformatted email to a list of contact (through mail form)	9	100	25
+Pictures in the Clouds	8.57157035330025	Calling	9	100	25
+Pictures in the Clouds	8.57157035330025	Pictures in the Clouds	10	100	25
+Pictures in the Clouds	8.57157035330025	Tell a short story about your friend	8	100	25
+Casual Card Game Design Needed	8.4060018933961	Casual Card Game Design Needed	9	100	25
+OurEuphoria: Sign up	8.37130980807764	TTV-Share a page on your Facebook	5	100	25
+OurEuphoria: Sign up	8.37130980807764	Facebook vote/support: Team	7	100	25
+OurEuphoria: Sign up	8.37130980807764	OurEuphoria: Sign up	9	100	25
+Find User Location Given Social Media Links	8.29837618007745	Find User Location Given Social Media Links	8	100	25
+Extract purchased items from a shopping receipt	9.22822412592204	Extract purchased items from a shopping receipt	10	100	26
+Add atmosphere to architectural renderings in photoshop	9.20021842315401	Add atmosphere to architectural renderings in photoshop	10	100	26
+Add atmosphere to architectural renderings in photoshop	9.20021842315401	Dropbox_upload	7	75	26
+3D game	9.19047874837557	3D game	10	100	26
+3D game	9.19047874837557	Triple	8	100	26
+Dress Website	9.02003254152079	Dress Website	10	100	26
+Development	8.95608832847887	Development	10	100	26
+Youtube: Comment + Subscribe	8.92526792695707	RD2: Comment on Video	9	100	26
+Youtube: Comment + Subscribe	8.92526792695707	Youtube: Comment + Subscribe	10	100	26
+Youtube: Comment + Subscribe	8.92526792695707	You like and comment on youtube Videos	8	100	26
+Type Word	8.82240875994506	Type Word	10	100	26
+Logo size changes	8.78251230791285	Logo size changes	10	100	26
+Two pages from Russian to English	8.74038382444674	Two pages from Russian to English	8	100	26
+Collect Information about a given taxi fleet	8.71787390030406	Collect taxi fleets in a given U.S. city	9	100	26
+Collect Information about a given taxi fleet	8.71787390030406	Collect Information about a given taxi fleet	10	100	26
+Two pages from Russian to English	9.38989253660626	Two pages from Russian to English	10	100	27
+Testing: speak 36 short sentences in English on your Android Device	9.30032447559872	NAS SS Search + Visit + Screenshot	3	100	27
+Testing: speak 36 short sentences in English on your Android Device	9.30032447559872	Test Android App in 3 simple steps and answer simple questions	9	100	27
+Tell a short story about your friend	9.2744199939021	Pictures in the Clouds	10	100	27
+Tell a short story about your friend	9.2744199939021	Tell a short story about your friend	10	100	27
+Collect taxi fleets in a given U.S. city	9.27252103270303	Collect Information about a given taxi fleet	3	100	27
+Find User Location Given Social Media Links	9.23313018965816	Find User Location Given Social Media Links	10	100	27
+You like and comment on youtube Videos	9.21823851178088	RD2: Comment on Video	9	100	27
+You like and comment on youtube Videos	9.21823851178088	You like and comment on youtube Videos	9	100	27
+Dress Website	9.12620867613856	Dress Website	9	100	27
+Development	8.95811655759563	Development	10	100	27
+Two pages from Russian to English	9.57647011088592	Two pages from Russian to English	10	100	28
+You like and comment on youtube Videos	9.46328164915986	RD2: Comment on Video	10	100	28
+You like and comment on youtube Videos	9.46328164915986	Youtube: Comment + Subscribe	10	100	28
+You like and comment on youtube Videos	9.46328164915986	You like and comment on youtube Videos	10	100	28
+Collect taxi fleets in a given U.S. city	9.36449211669506	Collect taxi fleets in a given U.S. city	10	100	28
+Collect taxi fleets in a given U.S. city	9.36449211669506	Collect Information about a given taxi fleet	1	100	28
+Youtube: Comment + Subscribe	9.2842519892347	RD2: Comment on Video	10	100	28
+Youtube: Comment + Subscribe	9.2842519892347	Youtube: Comment + Subscribe	10	100	28
+Youtube: Comment + Subscribe	9.2842519892347	You like and comment on youtube Videos	10	100	28
+Find User Location Given Social Media Links	9.12014242641031	Find User Location Given Social Media Links	10	100	28
+Type Word	8.95371929474281	Type Word	10	100	28
+Casual Card Game Design Needed	8.88797030700218	Casual Card Game Design Needed	9	100	28
+Start development and designing of a mobile phone app	8.86271102314673	Start development and designing of a mobile phone app	10	100	28
+Collect Product Information	8.80647727433938	Collect Product Information	9	100	28
+Business Logo	8.71111581409042	Business Logo	9	100	28
+Guide writer	9.60384494387253	Guide writer	10	100	29
+Please find missing fields	9.3318634865633	Please find missing fields	10	100	29
+Please find missing fields	9.3318634865633	Write an Honest Review/Opinion: Your Card	9	100	29
+Please find missing fields	9.3318634865633	Image caption editing: Boring image caption to romantic image caption	9	100	29
+Casual Card Game Design Needed	9.26664275704302	Casual Card Game Design Needed	10	100	29
+Image recognition	9.21841627318904	Image recognition	9	100	29
+Looking for android developer	9.17319477694708	Looking for android developer	9	100	29
+Write a short summary of a company	9.00016407481674	Write a short summary of a company	10	100	29
+Two pages from Russian to English	8.90522224205883	Two pages from Russian to English	9	100	29
+Type Word	8.82964624169837	Type Word	9	100	29
+Dress Website	8.80642877900224	Dress Website	9	100	29
+Collect taxi fleets in a given U.S. city	8.74558467148324	Collect taxi fleets in a given U.S. city	8	100	29
+Collect taxi fleets in a given U.S. city	8.74558467148324	Collect Information about a given taxi fleet	9	100	29
+OurEuphoria: Sign up	9.50579302394577	OurEuphoria: Sign up	10	100	30
+Add atmosphere to architectural renderings in photoshop	9.12524913793088	Add atmosphere to architectural renderings in photoshop	10	100	30
+Triple	9.04945218944091	3D game	8	100	30
+Triple	9.04945218944091	Triple	10	100	30
+Triple	9.04945218944091	Mip: Sign up + Screenshot	6	100	30
+Triple	9.04945218944091	Send a preformatted email to a list of contact (through mail form)	8	100	30
+Develop a hybrid social App	8.95171986973019	Develop a hybrid social App	10	100	30
+Development	8.90352316228056	Development	9	100	30
+Extract purchased items from a shopping receipt	8.83459177632261	Extract purchased items from a shopping receipt	9	100	30
+Dress Website	8.81709523432336	Dress Website	9	100	30
+Looking for android developer	8.79723860845644	Looking for android developer	10	100	30
+Transcribe up 35s of media into text	8.60495385386387	Transcribe up 35s of media into text	10	100	30
+Add atmosphere to architectural renderings in photoshop	9.71253750632409	Add atmosphere to architectural renderings in photoshop	10	100	31
+Add atmosphere to architectural renderings in photoshop	9.71253750632409	Dropbox_upload	8	75	31
+Find User Location Given Social Media Links	9.56994710759049	Find User Location Given Social Media Links	10	100	31
+Business Logo	9.29685384438653	Business Logo	10	100	31
+Image recognition	9.27604356567892	Image recognition	10	100	31
+Image recognition	9.27604356567892	Play the GuesWhat!?	2	100	31
+Type Word	9.20241674671268	Type Word	10	100	31
+Casual Card Game Design Needed	9.15603143941102	Casual Card Game Design Needed	10	100	31
+OurEuphoria: Sign up	9.11917402430713	TTV-Share a page on your Facebook	1	100	31
+OurEuphoria: Sign up	9.11917402430713	OurEuphoria: Sign up	10	100	31
+Tell a short story about your friend	9.08166432679237	Calling	2	100	31
+Tell a short story about your friend	9.08166432679237	Pictures in the Clouds	10	100	31
+Tell a short story about your friend	9.08166432679237	Tell a short story about your friend	9	100	31
+Order Russion to English translation by their quality	9.00100616818191	Order Russion to English translation by their quality	10	100	31
+[Hip-Hop/Rap] New Music Survey 	8.97778164980985	[Hip-Hop/Rap] New Music Survey 	10	100	31
+Casual Card Game Design Needed	9.71738982860839	Casual Card Game Design Needed	10	100	32
+Please find missing fields	9.27788086641884	Please find missing fields	10	100	32
+Please find missing fields	9.27788086641884	Write an Honest Review/Opinion: Your Card	8	100	32
+Please find missing fields	9.27788086641884	Image caption editing: Boring image caption to romantic image caption	9	100	32
+Collect taxi fleets in a given U.S. city	9.08736741527646	Collect taxi fleets in a given U.S. city	9	100	32
+Collect taxi fleets in a given U.S. city	9.08736741527646	Collect Information about a given taxi fleet	9	100	32
+Find User Location Given Social Media Links	9.0488544671641	Find User Location Given Social Media Links	10	100	32
+Dedicated writer (Smart home) 	9.00791726455357	Dedicated writer (Smart home) 	10	100	32
+Dedicated writer (Smart home) 	9.00791726455357	Translate PO file from English to Portuguese	3	75	32
+NAS SS Search + Visit + Screenshot	9.00503910939578	NAS SS Search + Visit + Screenshot	10	100	32
+NAS SS Search + Visit + Screenshot	9.00503910939578	Android App Testing	8	100	32
+NAS SS Search + Visit + Screenshot	9.00503910939578	Testing: speak 36 short sentences in English on your Android Device	10	100	32
+Image caption editing: Boring image caption to romantic image caption	9.00153592754869	Please find missing fields	10	100	32
+Image caption editing: Boring image caption to romantic image caption	9.00153592754869	Write an Honest Review/Opinion: Your Card	8	100	32
+Image caption editing: Boring image caption to romantic image caption	9.00153592754869	Image caption editing: Boring image caption to romantic image caption	9	100	32
+Desktop publisher	8.94305548128427	Desktop publisher	10	100	32
+Youtube: Comment + Subscribe	8.89144136480819	RD2: Comment on Video	6	100	32
+Youtube: Comment + Subscribe	8.89144136480819	You like and comment on youtube Videos	8	100	32
+HTML and CSS	8.87033588942863	HTML and CSS	10	100	32
+Find User Location Given Social Media Links	9.70410669145407	Find User Location Given Social Media Links	10	100	33
+Business Logo	9.56371614646384	Business Logo	10	100	33
+Tell a short story about your friend	9.55554923559519	Calling	9	100	33
+Tell a short story about your friend	9.55554923559519	Pictures in the Clouds	9	100	33
+Tell a short story about your friend	9.55554923559519	Tell a short story about your friend	10	100	33
+Download my ebook	9.54886410299421	Download my ebook	10	100	33
+Job for IOS Device	9.42842962010456	Job for IOS Device	10	100	33
+Logo size changes	9.31391125980222	Logo size changes	10	100	33
+Casual Card Game Design Needed	9.30591218469207	Casual Card Game Design Needed	9	100	33
+3D game	9.2778860708354	3D game	10	100	33
+3D game	9.2778860708354	Triple	9	100	33
+3D game	9.2778860708354	Mip: Sign up + Screenshot	9	100	33
+Marketing Agency	9.25986555560621	Marketing Agency	10	100	33
+Collect taxi fleets in a given U.S. city	9.19102185111741	Collect taxi fleets in a given U.S. city	9	100	33
+Collect taxi fleets in a given U.S. city	9.19102185111741	Collect Information about a given taxi fleet	5	100	33
+Job for IOS Device	9.58500429274254	Job for IOS Device	10	100	34
+Please find missing fields	9.50736572170853	Please find missing fields	10	100	34
+Please find missing fields	9.50736572170853	Write an Honest Review/Opinion: Your Card	8	100	34
+Please find missing fields	9.50736572170853	Image caption editing: Boring image caption to romantic image caption	9	100	34
+Two pages from Russian to English	9.3842702666585	Two pages from Russian to English	10	100	34
+You like and comment on youtube Videos	9.37212539570891	Youtube: Comment + Subscribe	7	100	34
+You like and comment on youtube Videos	9.37212539570891	You like and comment on youtube Videos	10	100	34
+Type Word	9.34000149014367	Type Word	9	100	34
+Looking for android developer	9.29384730954339	Looking for android developer	10	100	34
+Start development and designing of a mobile phone app	9.2308285697907	Start development and designing of a mobile phone app	9	100	34
+Write a short summary of a company	9.18592702301409	Write a short summary of a company	10	100	34
+Categorize a goal statement	9.17491966660546	Categorize a goal statement	10	100	34
+Dedicated writer (Smart home) 	9.16216046444026	Dedicated writer (Smart home) 	10	100	34
+Image caption editing: Boring image caption to romantic image caption	9.79538489146531	Write an Honest Review/Opinion: Your Card	7	100	35
+Image caption editing: Boring image caption to romantic image caption	9.79538489146531	Image caption editing: Boring image caption to romantic image caption	10	100	35
+Two pages from Russian to English	9.77737343484264	Two pages from Russian to English	10	100	35
+Job for IOS Device	9.49752672515551	Job for IOS Device	10	100	35
+Add atmosphere to architectural renderings in photoshop	9.48989458031411	Add atmosphere to architectural renderings in photoshop	10	100	35
+Collect Product Information	9.25884821742073	Collect Product Information	10	100	35
+Business Logo	9.21174390195646	Business Logo	10	100	35
+Looking for android developer	9.15534091900121	Looking for android developer	9	100	35
+Find User Location Given Social Media Links	9.1230644648456	Find User Location Given Social Media Links	10	100	35
+Casual Card Game Design Needed	9.09250664604027	Casual Card Game Design Needed	9	100	35
+Collect Product Information	9.65879647115964	Collect Product Information	10	100	36
+Find User Location Given Social Media Links	9.10441743153769	Find User Location Given Social Media Links	10	100	36
+Dress Website	9.01566660994512	Dress Website	8	100	36
+Development	8.88703318550092	Development	9	100	36
+Dedicated writer (Smart home) 	8.87262843075708	Dedicated writer (Smart home) 	9	100	36
+Triple	8.78055634959006	Triple	10	100	36
+Triple	8.78055634959006	Mip: Sign up + Screenshot	10	100	36
+Triple	8.78055634959006	Send a preformatted email to a list of contact (through mail form)	8	100	36
+Start development and designing of a mobile phone app	8.7656965417232	Start development and designing of a mobile phone app	9	100	36
+Ecommerce website need	8.7106554310572	Ecommerce website need	9	100	36
+Mip: Sign up + Screenshot	8.67798228635983	Triple	10	100	36
+Mip: Sign up + Screenshot	8.67798228635983	Mip: Sign up + Screenshot	10	100	36
+Mip: Sign up + Screenshot	8.67798228635983	Send a preformatted email to a list of contact (through mail form)	8	100	36
+Collect taxi fleets in a given U.S. city	8.67438735825101	Collect taxi fleets in a given U.S. city	9	100	36
+Collect taxi fleets in a given U.S. city	8.67438735825101	Collect Information about a given taxi fleet	10	100	36
+Extract purchased items from a shopping receipt	9.49286627858325	Extract purchased items from a shopping receipt	10	100	37
+Job for IOS Device	9.42409253734558	Job for IOS Device	10	100	37
+Dedicated writer (Smart home) 	9.24233057323544	Dedicated writer (Smart home) 	10	100	37
+Dress Website	9.05479878235348	Dress Website	9	100	37
+Testing: speak 36 short sentences in English on your Android Device	8.91727862978049	NAS SS Search + Visit + Screenshot	7	100	37
+Testing: speak 36 short sentences in English on your Android Device	8.91727862978049	Android App Testing	10	100	37
+Testing: speak 36 short sentences in English on your Android Device	8.91727862978049	Testing: speak 36 short sentences in English on your Android Device	9	100	37
+Youtube: Comment + Subscribe	8.90558672804183	Youtube: Comment + Subscribe	10	100	37
+Youtube: Comment + Subscribe	8.90558672804183	You like and comment on youtube Videos	9	100	37
+Image caption editing: Boring image caption to romantic image caption	8.87294477742843	Please find missing fields	8	100	37
+Image caption editing: Boring image caption to romantic image caption	8.87294477742843	Write an Honest Review/Opinion: Your Card	8	100	37
+Image caption editing: Boring image caption to romantic image caption	8.87294477742843	Image caption editing: Boring image caption to romantic image caption	9	100	37
+Casual Card Game Design Needed	8.86594555454565	Casual Card Game Design Needed	10	100	37
+Find User Location Given Social Media Links	8.69378946848686	Find User Location Given Social Media Links	9	100	37
+NAS SS Search + Visit + Screenshot	9.42468975934732	Test Android App in 3 simple steps and answer simple questions	8	100	38
+NAS SS Search + Visit + Screenshot	9.42468975934732	Testing: speak 36 short sentences in English on your Android Device	7	100	38
+HTML and CSS	9.37382237474656	HTML and CSS	10	100	38
+Business Logo	9.2105961734601	Business Logo	10	100	38
+[Hip-Hop/Rap] New Music Survey 	9.20728002478716	[Hip-Hop/Rap] New Music Survey 	10	100	38
+Image recognition	9.19488321881673	Copy paste 4 fields of information from a profile page	9	100	38
+Image recognition	9.19488321881673	Image recognition	10	100	38
+Image recognition	9.19488321881673	Play the GuesWhat!?	1	100	38
+Image recognition	9.19488321881673	View a webpage and tell us whether it is helpful	10	100	38
+Dress Website	9.08667888184885	Dress Website	10	100	38
+Please find missing fields	9.06041430201955	Image caption editing: Boring image caption to romantic image caption	9	100	38
+Casual Card Game Design Needed	8.96984340298668	Casual Card Game Design Needed	9	100	38
+Type Word	8.86157647249846	Type Word	10	100	38
+Desktop publisher	8.78989303415703	Desktop publisher	10	100	38
+Two pages from Russian to English	9.4787595445907	Two pages from Russian to English	10	100	39
+Send a preformatted email to a list of contact (through mail form)	9.3909445117098	3D game	2	100	39
+Send a preformatted email to a list of contact (through mail form)	9.3909445117098	Triple	10	100	39
+Send a preformatted email to a list of contact (through mail form)	9.3909445117098	Mip: Sign up + Screenshot	1	100	39
+Send a preformatted email to a list of contact (through mail form)	9.3909445117098	Send a preformatted email to a list of contact (through mail form)	10	100	39
+You like and comment on youtube Videos	9.37171396360196	RD2: Comment on Video	10	100	39
+You like and comment on youtube Videos	9.37171396360196	Youtube: Comment + Subscribe	7	100	39
+You like and comment on youtube Videos	9.37171396360196	You like and comment on youtube Videos	10	100	39
+Type Word	9.36994055106471	Type Word	9	100	39
+RD2: Comment on Video	9.28156247517116	RD2: Comment on Video	10	100	39
+RD2: Comment on Video	9.28156247517116	Youtube: Comment + Subscribe	7	100	39
+RD2: Comment on Video	9.28156247517116	You like and comment on youtube Videos	10	100	39
+Looking for android developer	9.28011649688636	Looking for android developer	10	100	39
+Collect Information about a given taxi fleet	9.26663182714524	Collect taxi fleets in a given U.S. city	8	100	39
+HTML and CSS	9.25277227151993	HTML and CSS	10	100	39
+Development	9.09002995868431	Development	9	100	39
+Image caption editing: Boring image caption to romantic image caption	9.31786597371006	Image caption editing: Boring image caption to romantic image caption	10	100	40
+Type Word	9.29237804283507	Type Word	10	100	40
+Collect taxi fleets in a given U.S. city	9.28584626848219	Collect taxi fleets in a given U.S. city	10	100	40
+You like and comment on youtube Videos	9.02638930581116	Youtube: Comment + Subscribe	9	100	40
+You like and comment on youtube Videos	9.02638930581116	You like and comment on youtube Videos	9	100	40
+Looking for android developer	8.93935812386495	Looking for android developer	9	100	40
+Two pages from Russian to English	8.88321556002325	Two pages from Russian to English	10	100	40
+Casual Card Game Design Needed	8.85858096096258	Casual Card Game Design Needed	10	100	40
+HTML and CSS	8.84512054224707	HTML and CSS	10	100	40
+Job for IOS Device	8.84508319397319	Job for IOS Device	9	100	40
+Download my ebook	8.78879877982405	Download my ebook	9	100	40
+Image recognition	9.52336452353245	Image recognition	10	100	41
+Casual Card Game Design Needed	9.11861001003732	Casual Card Game Design Needed	10	100	41
+Mip: Sign up + Screenshot	9.09596210163283	3D game	8	100	41
+Mip: Sign up + Screenshot	9.09596210163283	Triple	8	100	41
+Mip: Sign up + Screenshot	9.09596210163283	Mip: Sign up + Screenshot	10	100	41
+Dress Website	8.95481671882697	Dress Website	9	100	41
+Development	8.86415624118778	Development	9	100	41
+Type Word	8.78345259606614	Type Word	9	100	41
+Chrome extension (CRM, Task management)	8.75385855045544	Chrome extension (CRM, Task management)	10	100	41
+Looking for android developer	8.68076188791221	Looking for android developer	9	100	41
+Collect Product Information	8.65552352216215	Collect Product Information	9	100	41
+Add atmosphere to architectural renderings in photoshop	8.62881043761101	Add atmosphere to architectural renderings in photoshop	8	100	41
+[Hip-Hop/Rap] New Music Survey 	9.18034749872841	[Hip-Hop/Rap] New Music Survey 	10	100	42
+[Hip-Hop/Rap] New Music Survey 	9.18034749872841	Listen to a Genre Category: R&B sound and answer a survey about it	5	100	42
+Add atmosphere to architectural renderings in photoshop	9.15266704287465	Add atmosphere to architectural renderings in photoshop	10	100	42
+Dress Website	9.06094202694888	Dress Website	10	100	42
+Extract purchased items from a shopping receipt	9.05852493243944	Extract purchased items from a shopping receipt	10	100	42
+You like and comment on youtube Videos	8.93675058697767	RD2: Comment on Video	7	100	42
+You like and comment on youtube Videos	8.93675058697767	Youtube: Comment + Subscribe	5	100	42
+You like and comment on youtube Videos	8.93675058697767	You like and comment on youtube Videos	9	100	42
+Casual Card Game Design Needed	8.92347518671236	Casual Card Game Design Needed	9	100	42
+Tell a short story about your friend	8.85094294219461	Tell a short story about your friend	9	100	42
+Aligning Words	8.83791536869247	Aligning Words	10	100	42
+HTML and CSS	8.80583663083925	HTML and CSS	9	100	42
+Ecommerce website need	8.73676190248041	Ecommerce website need	8	100	42
+Collect Information about a given taxi fleet	9.376429744805	Collect taxi fleets in a given U.S. city	10	100	43
+Collect Information about a given taxi fleet	9.376429744805	Collect Information about a given taxi fleet	10	100	43
+Pictures in the Clouds	9.18416881073749	Pictures in the Clouds	10	100	43
+Pictures in the Clouds	9.18416881073749	Tell a short story about your friend	8	100	43
+Dress Website	9.11732630412342	Dress Website	10	100	43
+Collect taxi fleets in a given U.S. city	9.05450612513063	Collect taxi fleets in a given U.S. city	10	100	43
+Collect taxi fleets in a given U.S. city	9.05450612513063	Collect Information about a given taxi fleet	10	100	43
+App developer for a new dating app	9.04500285552425	App developer for a new dating app	10	100	43
+Find User Location Given Social Media Links	9.02602197191223	Find User Location Given Social Media Links	9	100	43
+Develop a hybrid social App	8.98346402613321	Develop a hybrid social App	10	100	43
+Testing: speak 36 short sentences in English on your Android Device	8.96436594010167	Android App Testing	6	100	43
+Testing: speak 36 short sentences in English on your Android Device	8.96436594010167	Testing: speak 36 short sentences in English on your Android Device	10	100	43
+Development	8.8814664637355	Development	10	100	43
+Collect Product Information	8.82959623204127	Collect Product Information	10	100	43
+Youtube: Comment + Subscribe	9.03050558838132	Youtube: Comment + Subscribe	10	100	44
+Youtube: Comment + Subscribe	9.03050558838132	You like and comment on youtube Videos	8	100	44
+Desktop publisher	9.00043552910211	Desktop publisher	10	100	44
+Dedicated writer (Smart home) 	8.9456288901287	Dedicated writer (Smart home) 	9	100	44
+Two pages from Russian to English	8.79941904580903	Two pages from Russian to English	9	100	44
+HTML and CSS	8.75962444098378	HTML and CSS	10	100	44
+Develop a hybrid social App	8.74033226121271	Develop a hybrid social App	10	100	44
+Extract purchased items from a shopping receipt	8.68789431979804	Extract purchased items from a shopping receipt	10	100	44
+Dress Website	8.66859008661562	Dress Website	9	100	44
+Development	8.65261403040835	Development	8	100	44
+Find User Location Given Social Media Links	8.64823399564112	Find User Location Given Social Media Links	9	100	44
+Add atmosphere to architectural renderings in photoshop	9.404881556627	Add atmosphere to architectural renderings in photoshop	10	100	45
+Dress Website	9.35930932484039	Dress Website	10	100	45
+Casual Card Game Design Needed	9.27823849279867	Casual Card Game Design Needed	10	100	45
+Ecommerce website need	9.18728663861375	Ecommerce website need	10	100	45
+Collect Product Information	9.16533454670897	Collect Product Information	9	100	45
+Develop a hybrid social App	9.10297593350181	Develop a hybrid social App	9	100	45
+Development	9.06676909443851	Development	9	100	45
+Tell a short story about your friend	9.05480739478446	Tell a short story about your friend	10	100	45
+Find User Location Given Social Media Links	8.95769983397245	Find User Location Given Social Media Links	9	100	45
+OurEuphoria: Sign up	8.93750902607707	Facebook vote/support: Team	7	100	45
+Two pages from Russian to English	9.79674527501875	Two pages from Russian to English	10	100	46
+Find User Location Given Social Media Links	9.44419755330083	Find User Location Given Social Media Links	10	100	46
+Collect taxi fleets in a given U.S. city	9.43081468594731	Collect taxi fleets in a given U.S. city	10	100	46
+Collect taxi fleets in a given U.S. city	9.43081468594731	Collect Information about a given taxi fleet	9	100	46
+Type Word	9.22021630966031	Type Word	10	100	46
+NAS SS Search + Visit + Screenshot	9.19653132875785	NAS SS Search + Visit + Screenshot	10	100	46
+Send a preformatted email to a list of contact (through mail form)	9.07139069415398	3D game	10	100	46
+Send a preformatted email to a list of contact (through mail form)	9.07139069415398	Triple	9	100	46
+Send a preformatted email to a list of contact (through mail form)	9.07139069415398	Mip: Sign up + Screenshot	10	100	46
+Send a preformatted email to a list of contact (through mail form)	9.07139069415398	Send a preformatted email to a list of contact (through mail form)	10	100	46
+Mip: Sign up + Screenshot	9.00986438794845	3D game	10	100	46
+Mip: Sign up + Screenshot	9.00986438794845	Triple	9	100	46
+Mip: Sign up + Screenshot	9.00986438794845	Mip: Sign up + Screenshot	10	100	46
+Mip: Sign up + Screenshot	9.00986438794845	Send a preformatted email to a list of contact (through mail form)	10	100	46
+Image caption editing: Boring image caption to romantic image caption	8.98899486031181	Please find missing fields	8	100	46
+Image caption editing: Boring image caption to romantic image caption	8.98899486031181	Write an Honest Review/Opinion: Your Card	9	100	46
+Image caption editing: Boring image caption to romantic image caption	8.98899486031181	Image caption editing: Boring image caption to romantic image caption	9	100	46
+Job for IOS Device	8.9712100990794	Job for IOS Device	9	100	46
+Desktop publisher	9.65065634307105	Desktop publisher	10	100	47
+Triple	9.48000070030779	Triple	10	100	47
+Triple	9.48000070030779	Mip: Sign up + Screenshot	9	100	47
+Triple	9.48000070030779	Send a preformatted email to a list of contact (through mail form)	7	100	47
+Development	9.37200542953428	Development	10	100	47
+Dress Website	9.13145352720295	Dress Website	10	100	47
+Casual Card Game Design Needed	9.01348812896924	Casual Card Game Design Needed	9	100	47
+Ecommerce website need	8.9380214227303	Ecommerce website need	10	100	47
+Logo size changes	8.86283877113386	Logo size changes	9	100	47
+OurEuphoria: Sign up	8.7325622046207	TTV-Share a page on your Facebook	10	100	47
+OurEuphoria: Sign up	8.7325622046207	OurEuphoria: Sign up	9	100	47
+Tell a short story about your friend	8.7294910229748	Pictures in the Clouds	6	100	47
+Tell a short story about your friend	8.7294910229748	Tell a short story about your friend	8	100	47
+Transcribe up 35s of media into text	8.68949585060787	Transcribe up 35s of media into text	10	100	47
+Two pages from Russian to English	10.2270472591782	Two pages from Russian to English	10	100	48
+NAS SS Search + Visit + Screenshot	9.58884960393487	NAS SS Search + Visit + Screenshot	10	100	48
+Collect taxi fleets in a given U.S. city	9.54552782360506	Collect taxi fleets in a given U.S. city	10	100	48
+Collect taxi fleets in a given U.S. city	9.54552782360506	Collect Information about a given taxi fleet	10	100	48
+Develop a hybrid social App	9.52739629468847	Develop a hybrid social App	10	100	48
+Development	9.39905913127976	Development	10	100	48
+Logo size changes	9.35925837394192	Logo size changes	9	100	48
+Testing: speak 36 short sentences in English on your Android Device	9.31298386286509	NAS SS Search + Visit + Screenshot	10	100	48
+Looking for android developer	9.27626544686627	Looking for android developer	9	100	48
+Type Word	9.25978815026007	Type Word	9	100	48
+Extract purchased items from a shopping receipt	9.25265439534985	Extract purchased items from a shopping receipt	9	100	48
+NAS SS Search + Visit + Screenshot	9.67287240206583	NAS SS Search + Visit + Screenshot	10	100	49
+NAS SS Search + Visit + Screenshot	9.67287240206583	Test Android App in 3 simple steps and answer simple questions	8	100	49
+NAS SS Search + Visit + Screenshot	9.67287240206583	Testing: speak 36 short sentences in English on your Android Device	10	100	49
+Ecommerce website need	9.24071077939143	Ecommerce website need	10	100	49
+Collect Product Information	9.16304528377399	Collect Product Information	10	100	49
+Download my ebook	9.05405020469161	Download my ebook	10	100	49
+Testing: speak 36 short sentences in English on your Android Device	9.04081519374888	NAS SS Search + Visit + Screenshot	10	100	49
+Testing: speak 36 short sentences in English on your Android Device	9.04081519374888	Test Android App in 3 simple steps and answer simple questions	8	100	49
+Testing: speak 36 short sentences in English on your Android Device	9.04081519374888	Testing: speak 36 short sentences in English on your Android Device	10	100	49
+Two pages from Russian to English	9.0194800121925	Two pages from Russian to English	10	100	49
+Tourism Research Needed	8.95254850617107	Tourism Research Needed	10	100	49
+Business Logo	8.83957657545117	Business Logo	10	100	49
+Pinterest Pin: Houseplangallery	8.83845488944428	Pinterest Pin: Houseplangallery	10	100	49
+Triple	8.7999839672371	3D game	9	100	49
+Triple	8.7999839672371	Mip: Sign up + Screenshot	9	100	49
+Triple	8.7999839672371	Send a preformatted email to a list of contact (through mail form)	9	100	49
+Test New IOS app (MGA7)	9.97418523935632	IOS App Testeing	9	100	50
+Job for IOS Device	9.95409681441428	Job for IOS Device	10	100	50
+Casual Card Game Design Needed	9.58352625782715	Casual Card Game Design Needed	10	100	50
+Collect taxi fleets in a given U.S. city	9.41531109809056	Collect taxi fleets in a given U.S. city	10	100	50
+Collect taxi fleets in a given U.S. city	9.41531109809056	Collect Information about a given taxi fleet	1	100	50
+RD2: Comment on Video	9.24392023379257	RD2: Comment on Video	10	100	50
+RD2: Comment on Video	9.24392023379257	Youtube: Comment + Subscribe	10	100	50
+RD2: Comment on Video	9.24392023379257	Youtube: Search + Watch + Screenshot	6	100	50
+RD2: Comment on Video	9.24392023379257	You like and comment on youtube Videos	10	100	50
+Image recognition	9.20713784556442	Copy paste 4 fields of information from a profile page	6	100	50
+Image recognition	9.20713784556442	Image recognition	10	100	50
+Android App Testing	9.13644668134426	NAS SS Search + Visit + Screenshot	7	100	50
+Android App Testing	9.13644668134426	Android App Testing	9	100	50
+Order Russion to English translation by their quality	9.12846654071368	Order Russion to English translation by their quality	10	100	50
+Guide writer	9.12181124471479	Guide writer	10	100	50
+Start development and designing of a mobile phone app	9.09243567927994	Start development and designing of a mobile phone app	10	100	50
+OurEuphoria: Sign up	9.52636821538105	OurEuphoria: Sign up	10	100	51
+Type Word	9.51470542042699	Type Word	10	100	51
+Development	9.32302834200146	Development	10	100	51
+Tell a short story about your friend	9.29615586923978	Calling	9	100	51
+Tell a short story about your friend	9.29615586923978	Pictures in the Clouds	8	100	51
+Tell a short story about your friend	9.29615586923978	Tell a short story about your friend	10	100	51
+Find User Location Given Social Media Links	9.2706221688948	Find User Location Given Social Media Links	10	100	51
+Marketing Agency	9.14149263199346	Marketing Agency	10	100	51
+Casual Card Game Design Needed	9.09259949433435	Casual Card Game Design Needed	10	100	51
+Collect Product Information	9.05955514493172	Collect Product Information	9	100	51
+Business Logo	9.01495257222894	Business Logo	9	100	51
+OurEuphoria: Sign up	9.40131673625618	OurEuphoria: Sign up	10	100	52
+Write a short summary of a company	9.33682823476979	Write a short summary of a company	9	100	52
+Find User Location Given Social Media Links	9.32109638427029	Find User Location Given Social Media Links	10	100	52
+Extract purchased items from a shopping receipt	9.27713080484806	Extract purchased items from a shopping receipt	10	100	52
+RD2: Comment on Video	9.25278123998408	RD2: Comment on Video	10	100	52
+RD2: Comment on Video	9.25278123998408	Youtube: Comment + Subscribe	9	100	52
+Dress Website	9.21516537736341	Dress Website	9	100	52
+Job for IOS Device	9.14207850323655	Job for IOS Device	10	100	52
+Start development and designing of a mobile phone app	9.11120145913028	Start development and designing of a mobile phone app	9	100	52
+Collect taxi fleets in a given U.S. city	9.03979578793036	Collect taxi fleets in a given U.S. city	10	100	52
+Collect taxi fleets in a given U.S. city	9.03979578793036	Collect Information about a given taxi fleet	8	100	52
+Triple	8.93428612331157	Triple	10	100	52
+NAS SS Search + Visit + Screenshot	10.1115588451205	NAS SS Search + Visit + Screenshot	10	100	53
+NAS SS Search + Visit + Screenshot	10.1115588451205	Android App Testing	10	100	53
+Download my ebook	9.84050228691962	Download my ebook	10	100	53
+Collect Information about a given taxi fleet	9.58216091261306	Collect taxi fleets in a given U.S. city	3	100	53
+Collect Information about a given taxi fleet	9.58216091261306	Collect Information about a given taxi fleet	10	100	53
+Ecommerce website need	9.47574892802388	Ecommerce website need	10	100	53
+Testing: speak 36 short sentences in English on your Android Device	9.41445185157345	NAS SS Search + Visit + Screenshot	10	100	53
+Testing: speak 36 short sentences in English on your Android Device	9.41445185157345	Android App Testing	10	100	53
+Youtube: Comment + Subscribe	9.35563796221495	Youtube: Comment + Subscribe	10	100	53
+Youtube: Comment + Subscribe	9.35563796221495	You like and comment on youtube Videos	10	100	53
+Tell a short story about your friend	9.34158682677576	Pictures in the Clouds	8	100	53
+Tell a short story about your friend	9.34158682677576	Tell a short story about your friend	10	100	53
+HTML and CSS	9.33833762308408	HTML and CSS	10	100	53
+Develop a hybrid social App	9.21161117983841	Develop a hybrid social App	9	100	53
+You like and comment on youtube Videos	9.66853283370295	Youtube: Comment + Subscribe	5	100	54
+You like and comment on youtube Videos	9.66853283370295	You like and comment on youtube Videos	10	100	54
+Collect taxi fleets in a given U.S. city	9.18875755456723	Collect taxi fleets in a given U.S. city	10	100	54
+Collect taxi fleets in a given U.S. city	9.18875755456723	Collect Information about a given taxi fleet	6	100	54
+Dress Website	9.10628317518714	Dress Website	10	100	54
+Please find missing fields	9.06066889312087	Please find missing fields	10	100	54
+Please find missing fields	9.06066889312087	Write an Honest Review/Opinion: Your Card	7	100	54
+Please find missing fields	9.06066889312087	Image caption editing: Boring image caption to romantic image caption	9	100	54
+Dedicated writer (Smart home) 	8.93709092998755	Dedicated writer (Smart home) 	10	100	54
+Ecommerce website need	8.92067896548671	Ecommerce website need	10	100	54
+Testing: speak 36 short sentences in English on your Android Device	8.85122438235506	NAS SS Search + Visit + Screenshot	7	100	54
+Testing: speak 36 short sentences in English on your Android Device	8.85122438235506	Android App Testing	8	100	54
+OurEuphoria: Sign up	8.81098904782113	OurEuphoria: Sign up	9	100	54
+Two pages from Russian to English	8.78466136929685	Two pages from Russian to English	9	100	54
+Triple	8.78131310790434	Triple	9	100	54
+Triple	8.78131310790434	Send a preformatted email to a list of contact (through mail form)	9	100	54
+Collect Information about a given taxi fleet	9.51462104262833	Collect taxi fleets in a given U.S. city	8	100	55
+Collect Information about a given taxi fleet	9.51462104262833	Collect Information about a given taxi fleet	10	100	55
+OurEuphoria: Sign up	9.29420926699555	Facebook vote/support: Team	8	100	55
+OurEuphoria: Sign up	9.29420926699555	OurEuphoria: Sign up	9	100	55
+Desktop publisher	9.21154802060784	Desktop publisher	9	100	55
+Please find missing fields	9.1870990055479	Please find missing fields	9	100	55
+Please find missing fields	9.1870990055479	Write an Honest Review/Opinion: Your Card	8	100	55
+Please find missing fields	9.1870990055479	Image caption editing: Boring image caption to romantic image caption	6	100	55
+Calling	9.18167367320234	Calling	10	100	55
+Calling	9.18167367320234	Tell a short story about your friend	9	100	55
+Triple	9.17188161286274	3D game	7	100	55
+Triple	9.17188161286274	Triple	10	100	55
+Triple	9.17188161286274	Mip: Sign up + Screenshot	9	100	55
+Triple	9.17188161286274	Send a preformatted email to a list of contact (through mail form)	9	100	55
+NAS SS Search + Visit + Screenshot	9.11655604060627	NAS SS Search + Visit + Screenshot	10	100	55
+NAS SS Search + Visit + Screenshot	9.11655604060627	Test Android App in 3 simple steps and answer simple questions	4	100	55
+NAS SS Search + Visit + Screenshot	9.11655604060627	Android App Testing	10	100	55
+NAS SS Search + Visit + Screenshot	9.11655604060627	Testing: speak 36 short sentences in English on your Android Device	8	100	55
+Tell a short story about your friend	9.11346501851152	Calling	10	100	55
+Tell a short story about your friend	9.11346501851152	Tell a short story about your friend	9	100	55
+Download my ebook	9.0731734347051	Download my ebook	9	100	55
+HTML and CSS	9.00751931751022	HTML and CSS	10	100	55
+You like and comment on youtube Videos	9.62768923312702	RD2: Comment on Video	10	100	56
+You like and comment on youtube Videos	9.62768923312702	You like and comment on youtube Videos	10	100	56
+Develop a hybrid social App	9.48473911800758	Develop a hybrid social App	10	100	56
+Testing: speak 36 short sentences in English on your Android Device	9.42290660693653	NAS SS Search + Visit + Screenshot	8	100	56
+Testing: speak 36 short sentences in English on your Android Device	9.42290660693653	Android App Testing	9	100	56
+Testing: speak 36 short sentences in English on your Android Device	9.42290660693653	Testing: speak 36 short sentences in English on your Android Device	9	100	56
+OurEuphoria: Sign up	9.33219621809969	TTV-Share a page on your Facebook	3	100	56
+OurEuphoria: Sign up	9.33219621809969	Facebook vote/support: Team	10	100	56
+OurEuphoria: Sign up	9.33219621809969	OurEuphoria: Sign up	9	100	56
+HTML and CSS	9.22761361502883	HTML and CSS	10	100	56
+Two pages from Russian to English	9.13137858456014	Two pages from Russian to English	9	100	56
+Dress Website	9.0648664388129	Dress Website	8	100	56
+Image recognition	9.03566528930926	Image recognition	10	100	56
+Image recognition	9.03566528930926	View a webpage and tell us whether it is helpful	5	100	56
+Looking for android developer	8.93568370666742	Looking for android developer	9	100	56
+Order Russion to English translation by their quality	9.44172335088205	Order Russion to English translation by their quality	10	100	57
+You like and comment on youtube Videos	9.24659163334569	Youtube: Comment + Subscribe	1	100	57
+You like and comment on youtube Videos	9.24659163334569	You like and comment on youtube Videos	10	100	57
+Casual Card Game Design Needed	9.20238866233008	Casual Card Game Design Needed	10	100	57
+Dedicated writer (Smart home) 	9.19728843449373	Dedicated writer (Smart home) 	10	100	57
+OurEuphoria: Sign up	9.11824314605079	Facebook vote/support: Team	8	100	57
+OurEuphoria: Sign up	9.11824314605079	OurEuphoria: Sign up	10	100	57
+Write a short summary of a company	9.06064319665287	Write a short summary of a company	10	100	57
+Tell a short story about your friend	8.96010996620698	Tell a short story about your friend	9	100	57
+Image caption editing: Boring image caption to romantic image caption	8.86793583702837	Please find missing fields	9	100	57
+Image caption editing: Boring image caption to romantic image caption	8.86793583702837	Write an Honest Review/Opinion: Your Card	5	100	57
+Image caption editing: Boring image caption to romantic image caption	8.86793583702837	Image caption editing: Boring image caption to romantic image caption	10	100	57
+Type Word	8.77864461169809	Type Word	10	100	57
+Send a preformatted email to a list of contact (through mail form)	8.70541891782935	3D game	2	100	57
+Send a preformatted email to a list of contact (through mail form)	8.70541891782935	Mip: Sign up + Screenshot	2	100	57
+Send a preformatted email to a list of contact (through mail form)	8.70541891782935	Send a preformatted email to a list of contact (through mail form)	9	100	57
+Download my ebook	9.82224850451257	Download my ebook	10	100	58
+Marketing Agency	9.77977551497143	Marketing Agency	10	100	58
+Dedicated writer (Smart home) 	9.62911820067242	Dedicated writer (Smart home) 	10	100	58
+Dress Website	9.59990582355818	Dress Website	10	100	58
+Image recognition	9.59072014121947	Play the GuesWhat!?	8	100	58
+Collect taxi fleets in a given U.S. city	9.58773126462571	Collect taxi fleets in a given U.S. city	9	100	58
+Collect taxi fleets in a given U.S. city	9.58773126462571	Collect Information about a given taxi fleet	2	100	58
+Find User Location Given Social Media Links	9.50913585123757	Find User Location Given Social Media Links	10	100	58
+Collect Product Information	9.41028042168618	Collect Product Information	10	100	58
+Job for IOS Device	9.32602380563171	Job for IOS Device	9	100	58
+Looking for android developer	9.70300790108882	Looking for android developer	10	100	59
+Type Word	9.15421291189555	Type Word	10	100	59
+Add atmosphere to architectural renderings in photoshop	9.08259733850445	Add atmosphere to architectural renderings in photoshop	10	100	59
+Collect taxi fleets in a given U.S. city	9.06616158354577	Collect taxi fleets in a given U.S. city	9	100	59
+Collect taxi fleets in a given U.S. city	9.06616158354577	Collect Information about a given taxi fleet	9	100	59
+OurEuphoria: Sign up	9.04264281430354	Facebook vote/support: Team	8	100	59
+OurEuphoria: Sign up	9.04264281430354	OurEuphoria: Sign up	10	100	59
+Send a preformatted email to a list of contact (through mail form)	9.02519459424013	Triple	9	100	59
+Send a preformatted email to a list of contact (through mail form)	9.02519459424013	Mip: Sign up + Screenshot	9	100	59
+Send a preformatted email to a list of contact (through mail form)	9.02519459424013	Send a preformatted email to a list of contact (through mail form)	10	100	59
+Casual Card Game Design Needed	8.99794445874816	Casual Card Game Design Needed	10	100	59
+Two pages from Russian to English	8.93691110103468	Two pages from Russian to English	8	100	59
+Pictures in the Clouds	8.8876944631279	Calling	7	100	59
+Pictures in the Clouds	8.8876944631279	Pictures in the Clouds	10	100	59
+Pictures in the Clouds	8.8876944631279	Tell a short story about your friend	9	100	59
+Write an Honest Review/Opinion: Your Card	8.73571634199547	Please find missing fields	8	100	59
+Write an Honest Review/Opinion: Your Card	8.73571634199547	Write an Honest Review/Opinion: Your Card	9	100	59
+Write an Honest Review/Opinion: Your Card	8.73571634199547	Image caption editing: Boring image caption to romantic image caption	7	100	59
+Logo size changes	9.57532322012396	Logo size changes	10	100	60
+HTML and CSS	9.22455828286678	HTML and CSS	10	100	60
+Collect taxi fleets in a given U.S. city	9.19218147805029	Collect taxi fleets in a given U.S. city	10	100	60
+Collect taxi fleets in a given U.S. city	9.19218147805029	Collect Information about a given taxi fleet	8	100	60
+Transcribe up 35s of media into text	9.14833977970521	Transcribe up 35s of media into text	10	100	60
+OurEuphoria: Sign up	9.13400312553535	OurEuphoria: Sign up	10	100	60
+Job for IOS Device	9.10064290877718	Job for IOS Device	10	100	60
+Casual Card Game Design Needed	9.09455068742586	Casual Card Game Design Needed	10	100	60
+Type Word	9.06472969664188	Type Word	10	100	60
+You like and comment on youtube Videos	9.05419678289021	RD2: Comment on Video	9	100	60
+You like and comment on youtube Videos	9.05419678289021	Youtube: Comment + Subscribe	8	100	60
+You like and comment on youtube Videos	9.05419678289021	Youtube: Search + Watch + Screenshot	7	100	60
+You like and comment on youtube Videos	9.05419678289021	You like and comment on youtube Videos	10	100	60
+Add atmosphere to architectural renderings in photoshop	9.05328826337419	Add atmosphere to architectural renderings in photoshop	9	100	60
+Add atmosphere to architectural renderings in photoshop	9.05328826337419	Dropbox_upload	6	75	60
+Logo size changes	9.76861050347548	Logo size changes	10	100	61
+Triple	9.57406726920077	3D game	9	100	61
+Triple	9.57406726920077	Triple	10	100	61
+Triple	9.57406726920077	Mip: Sign up + Screenshot	5	100	61
+Triple	9.57406726920077	Send a preformatted email to a list of contact (through mail form)	8	100	61
+Collect taxi fleets in a given U.S. city	9.31738795561662	Collect taxi fleets in a given U.S. city	9	100	61
+Guide writer	9.24443229851468	Keyword optimized blog posts	6	100	61
+Guide writer	9.24443229851468	Guide writer	10	100	61
+Dedicated writer (Smart home) 	9.20692869920008	Dedicated writer (Smart home) 	10	100	61
+Job for IOS Device	9.03817383843767	Job for IOS Device	9	100	61
+Development	8.97617660186526	Development	10	100	61
+Image caption editing: Boring image caption to romantic image caption	8.90884423388074	Please find missing fields	8	100	61
+Image caption editing: Boring image caption to romantic image caption	8.90884423388074	Write an Honest Review/Opinion: Your Card	9	100	61
+Image caption editing: Boring image caption to romantic image caption	8.90884423388074	Image caption editing: Boring image caption to romantic image caption	10	100	61
+Extract purchased items from a shopping receipt	8.86513014440075	Extract purchased items from a shopping receipt	10	100	61
+Marketing Agency	8.7072113025495	Marketing Agency	9	100	61
+Image caption editing: Boring image caption to romantic image caption	9.34399779019324	Please find missing fields	8	100	62
+Image caption editing: Boring image caption to romantic image caption	9.34399779019324	Write an Honest Review/Opinion: Your Card	8	100	62
+Triple	9.3170306011943	3D game	6	100	62
+Triple	9.3170306011943	Triple	10	100	62
+Triple	9.3170306011943	Mip: Sign up + Screenshot	8	100	62
+Triple	9.3170306011943	Send a preformatted email to a list of contact (through mail form)	8	100	62
+Two pages from Russian to English	9.14816246922028	Two pages from Russian to English	10	100	62
+NAS SS Search + Visit + Screenshot	9.09765197431067	NAS SS Search + Visit + Screenshot	9	100	62
+NAS SS Search + Visit + Screenshot	9.09765197431067	Android App Testing	9	100	62
+NAS SS Search + Visit + Screenshot	9.09765197431067	Testing: speak 36 short sentences in English on your Android Device	9	100	62
+Image recognition	9.04734275186842	Copy paste 4 fields of information from a profile page	3	100	62
+Image recognition	9.04734275186842	View a webpage and tell us whether it is helpful	6	100	62
+Develop a hybrid social App	9.00904656394656	Develop a hybrid social App	9	100	62
+Ecommerce website need	8.89969427818427	Ecommerce website need	9	100	62
+Testing: speak 36 short sentences in English on your Android Device	8.83188547073395	NAS SS Search + Visit + Screenshot	9	100	62
+Testing: speak 36 short sentences in English on your Android Device	8.83188547073395	Android App Testing	9	100	62
+Testing: speak 36 short sentences in English on your Android Device	8.83188547073395	Testing: speak 36 short sentences in English on your Android Device	9	100	62
+Test New IOS app (MGA7)	8.76475245293336	IOS App Testeing	8	100	62
+Test New IOS app (MGA7)	8.76475245293336	Test New IOS app (MGA7)	10	100	62
+Tell a short story about your friend	8.7393102257534	Pictures in the Clouds	3	100	62
+Tell a short story about your friend	8.7393102257534	Tell a short story about your friend	9	100	62
+Image recognition	9.68612127280985	View a webpage and tell us whether it is helpful	2	100	63
+Dress Website	9.62520979568408	Dress Website	10	100	63
+Add atmosphere to architectural renderings in photoshop	9.44985075715835	Add atmosphere to architectural renderings in photoshop	10	100	63
+Add atmosphere to architectural renderings in photoshop	9.44985075715835	Dropbox_upload	5	75	63
+You like and comment on youtube Videos	9.33301595209713	RD2: Comment on Video	8	100	63
+You like and comment on youtube Videos	9.33301595209713	Youtube: Comment + Subscribe	9	100	63
+You like and comment on youtube Videos	9.33301595209713	You like and comment on youtube Videos	10	100	63
+Extract purchased items from a shopping receipt	9.28148648791784	Extract purchased items from a shopping receipt	10	100	63
+3D game	9.24356330653855	3D game	10	100	63
+3D game	9.24356330653855	Triple	9	100	63
+3D game	9.24356330653855	Mip: Sign up + Screenshot	9	100	63
+3D game	9.24356330653855	Send a preformatted email to a list of contact (through mail form)	10	100	63
+Dedicated writer (Smart home) 	9.01227025588862	Dedicated writer (Smart home) 	9	100	63
+Find User Location Given Social Media Links	8.96847608952122	Find User Location Given Social Media Links	8	100	63
+Testing: speak 36 short sentences in English on your Android Device	8.90011857051853	NAS SS Search + Visit + Screenshot	9	100	63
+Testing: speak 36 short sentences in English on your Android Device	8.90011857051853	Test Android App in 3 simple steps and answer simple questions	9	100	63
+Testing: speak 36 short sentences in English on your Android Device	8.90011857051853	Testing: speak 36 short sentences in English on your Android Device	10	100	63
+Tell a short story about your friend	8.86216755170522	Pictures in the Clouds	9	100	63
+Tell a short story about your friend	8.86216755170522	Tell a short story about your friend	9	100	63
+Job for IOS Device	9.74912804053196	Job for IOS Device	10	100	64
+Add atmosphere to architectural renderings in photoshop	9.37034163455388	Dropbox_upload	10	75	64
+Tell a short story about your friend	9.34771323992532	Tell a short story about your friend	10	100	64
+Find User Location Given Social Media Links	9.21123375840386	Find User Location Given Social Media Links	10	100	64
+Type Word	9.08012799011733	Type Word	9	100	64
+Develop a hybrid social App	8.99515774767508	Develop a hybrid social App	10	100	64
+Dedicated writer (Smart home) 	8.89766293516955	Dedicated writer (Smart home) 	9	100	64
+Development	8.87339034993748	Development	9	100	64
+OurEuphoria: Sign up	8.87104662489608	Facebook vote/support: Team	10	100	64
+OurEuphoria: Sign up	8.87104662489608	OurEuphoria: Sign up	10	100	64
+Dress Website	9.63599510387762	Dress Website	10	100	65
+Find User Location Given Social Media Links	9.61943790458154	Find User Location Given Social Media Links	10	100	65
+Job for IOS Device	9.47419191816768	Job for IOS Device	10	100	65
+Casual Card Game Design Needed	9.25564055342977	Casual Card Game Design Needed	10	100	65
+Testing: speak 36 short sentences in English on your Android Device	9.15930061319562	NAS SS Search + Visit + Screenshot	9	100	65
+Testing: speak 36 short sentences in English on your Android Device	9.15930061319562	Android App Testing	10	100	65
+Testing: speak 36 short sentences in English on your Android Device	9.15930061319562	Testing: speak 36 short sentences in English on your Android Device	10	100	65
+Two pages from Russian to English	9.15237560142364	Two pages from Russian to English	10	100	65
+Dedicated writer (Smart home) 	9.06426056996172	Dedicated writer (Smart home) 	9	100	65
+Development	9.02447709308736	Development	10	100	65
+IOS App Testeing	8.99440319013023	Easy iOS App Testing (Queen Diamonds)	6	100	65
+IOS App Testeing	8.99440319013023	IOS App Testeing	10	100	65
+IOS App Testeing	8.99440319013023	Test New IOS app (MGA7)	9	100	65
+Develop a hybrid social App	8.95160211763604	Develop a hybrid social App	10	100	65
+Logo size changes	9.80673272943849	Logo size changes	10	100	66
+Start development and designing of a mobile phone app	9.51070224560196	Start development and designing of a mobile phone app	10	100	66
+Download my ebook	9.20602476923033	Download my ebook	10	100	66
+Collect taxi fleets in a given U.S. city	9.17332750766405	Collect taxi fleets in a given U.S. city	9	100	66
+Collect taxi fleets in a given U.S. city	9.17332750766405	Collect Information about a given taxi fleet	8	100	66
+Casual Card Game Design Needed	9.08215205720856	Casual Card Game Design Needed	9	100	66
+Tell a short story about your friend	8.87111094640218	Calling	9	100	66
+Tell a short story about your friend	8.87111094640218	Pictures in the Clouds	2	100	66
+Tell a short story about your friend	8.87111094640218	Tell a short story about your friend	10	100	66
+Dress Website	8.84535870134005	Dress Website	10	100	66
+Development	8.77831822281047	Development	9	100	66
+Testing: speak 36 short sentences in English on your Android Device	8.75043376405928	NAS SS Search + Visit + Screenshot	9	100	66
+Testing: speak 36 short sentences in English on your Android Device	8.75043376405928	Android App Testing	8	100	66
+Testing: speak 36 short sentences in English on your Android Device	8.75043376405928	Testing: speak 36 short sentences in English on your Android Device	10	100	66
+Desktop publisher	9.5286803921019	Desktop publisher	10	100	67
+OurEuphoria: Sign up	9.23491047917989	Facebook vote/support: Team	6	100	67
+OurEuphoria: Sign up	9.23491047917989	OurEuphoria: Sign up	10	100	67
+Dress Website	9.20024209356988	Dress Website	9	100	67
+Logo size changes	9.08310547359448	Logo size changes	10	100	67
+Two pages from Russian to English	9.02356009223283	Two pages from Russian to English	10	100	67
+Collect taxi fleets in a given U.S. city	8.96862585912236	Collect Information about a given taxi fleet	8	100	67
+Collect Product Information	8.95702322452984	Collect Product Information	10	100	67
+Download my ebook	8.93700219596138	Download my ebook	10	100	67
+Development	8.82598622892339	Development	9	100	67
+Find User Location Given Social Media Links	8.75668654844007	Find User Location Given Social Media Links	9	100	67
+Collect Information about a given taxi fleet	9.61985917533403	Collect taxi fleets in a given U.S. city	9	100	68
+Collect Information about a given taxi fleet	9.61985917533403	Collect Information about a given taxi fleet	10	100	68
+OurEuphoria: Sign up	9.44866372115459	OurEuphoria: Sign up	10	100	68
+Dress Website	9.40480465822977	Dress Website	9	100	68
+[Hip-Hop/Rap] New Music Survey 	9.27157059019717	[Hip-Hop/Rap] New Music Survey 	10	100	68
+[Hip-Hop/Rap] New Music Survey 	9.27157059019717	Listen to a Genre Category: R&B sound and answer a survey about it	8	100	68
+Two pages from Russian to English	9.26845856612456	Two pages from Russian to English	9	100	68
+Dedicated writer (Smart home) 	9.23348461565839	Dedicated writer (Smart home) 	10	100	68
+Development	9.15131222150284	Development	10	100	68
+Please find missing fields	9.05594243229049	Please find missing fields	10	100	68
+Please find missing fields	9.05594243229049	Write an Honest Review/Opinion: Your Card	9	100	68
+Please find missing fields	9.05594243229049	Image caption editing: Boring image caption to romantic image caption	9	100	68
+Triple	9.38939177387542	Send a preformatted email to a list of contact (through mail form)	8	100	69
+Testing: speak 36 short sentences in English on your Android Device	9.26225040055421	NAS SS Search + Visit + Screenshot	8	100	69
+Testing: speak 36 short sentences in English on your Android Device	9.26225040055421	Testing: speak 36 short sentences in English on your Android Device	10	100	69
+Tell a short story about your friend	9.25552208650682	Calling	10	100	69
+Tell a short story about your friend	9.25552208650682	Tell a short story about your friend	9	100	69
+OurEuphoria: Sign up	9.20179164085203	TTV-Share a page on your Facebook	3	100	69
+OurEuphoria: Sign up	9.20179164085203	OurEuphoria: Sign up	10	100	69
+Image caption editing: Boring image caption to romantic image caption	9.17041444619427	Please find missing fields	8	100	69
+Image caption editing: Boring image caption to romantic image caption	9.17041444619427	Write an Honest Review/Opinion: Your Card	7	100	69
+Image caption editing: Boring image caption to romantic image caption	9.17041444619427	Image caption editing: Boring image caption to romantic image caption	10	100	69
+You like and comment on youtube Videos	9.09715831568751	You like and comment on youtube Videos	10	100	69
+Pinterest Pin: Houseplangallery	9.04444895988367	Pinterest Pin: Houseplangallery	10	100	69
+Find User Location Given Social Media Links	8.85300605151955	Find User Location Given Social Media Links	9	100	69
+Casual Card Game Design Needed	8.79128524791899	Casual Card Game Design Needed	9	100	69
+Collect taxi fleets in a given U.S. city	8.7875102794944	Collect taxi fleets in a given U.S. city	10	100	69
+Collect taxi fleets in a given U.S. city	9.6397153761195	Collect taxi fleets in a given U.S. city	10	100	70
+Collect taxi fleets in a given U.S. city	9.6397153761195	Collect Information about a given taxi fleet	8	100	70
+Find User Location Given Social Media Links	9.4621910340619	Find User Location Given Social Media Links	10	100	70
+Development	9.35307814103854	Development	10	100	70
+NAS SS Search + Visit + Screenshot	9.19498375302875	NAS SS Search + Visit + Screenshot	10	100	70
+NAS SS Search + Visit + Screenshot	9.19498375302875	Testing: speak 36 short sentences in English on your Android Device	9	100	70
+Casual Card Game Design Needed	9.1668395330214	Casual Card Game Design Needed	8	100	70
+Tell a short story about your friend	9.15772956915294	Pictures in the Clouds	10	100	70
+Tell a short story about your friend	9.15772956915294	Tell a short story about your friend	8	100	70
+Ecommerce website need	9.09860447607441	Ecommerce website need	10	100	70
+Android App Testing	9.09402588361118	NAS SS Search + Visit + Screenshot	10	100	70
+Android App Testing	9.09402588361118	Testing: speak 36 short sentences in English on your Android Device	9	100	70
+Dress Website	9.09331082314032	Dress Website	10	100	70
+Download my ebook	9.08136478360708	Download my ebook	10	100	70
+Find User Location Given Social Media Links	9.35075467025589	Find User Location Given Social Media Links	10	100	71
+Add atmosphere to architectural renderings in photoshop	9.21973311769289	Add atmosphere to architectural renderings in photoshop	10	100	71
+Write a short summary of a company	9.14276937930181	Write a short summary of a company	10	100	71
+Write a short summary of a company	9.14276937930181	Product Search Relevance	3	100	71
+Testing: speak 36 short sentences in English on your Android Device	9.13657378944324	NAS SS Search + Visit + Screenshot	5	100	71
+Dress Website	9.05844464972077	Dress Website	10	100	71
+Type Word	9.05707474687728	Type Word	10	100	71
+Youtube: Comment + Subscribe	8.95447806740205	RD2: Comment on Video	1	100	71
+Youtube: Comment + Subscribe	8.95447806740205	Youtube: Comment + Subscribe	10	100	71
+Youtube: Comment + Subscribe	8.95447806740205	Youtube: Search + Watch + Screenshot	9	100	71
+Youtube: Comment + Subscribe	8.95447806740205	You like and comment on youtube Videos	8	100	71
+HTML and CSS	8.91143934748639	HTML and CSS	10	100	71
+Image caption editing: Boring image caption to romantic image caption	8.81142524474046	Write an Honest Review/Opinion: Your Card	6	100	71
+Image caption editing: Boring image caption to romantic image caption	8.81142524474046	Image caption editing: Boring image caption to romantic image caption	10	100	71
+Download my ebook	9.16250334009321	Download my ebook	9	100	72
+Image recognition	9.11394105664324	Image recognition	10	100	72
+Dedicated writer (Smart home) 	8.9794210372605	Dedicated writer (Smart home) 	10	100	72
+Dress Website	8.92459368849589	Dress Website	10	100	72
+Tell a short story about your friend	8.79380505700714	Calling	5	100	72
+Tell a short story about your friend	8.79380505700714	Pictures in the Clouds	9	100	72
+Tell a short story about your friend	8.79380505700714	Tell a short story about your friend	9	100	72
+Testing: speak 36 short sentences in English on your Android Device	8.77327703863359	NAS SS Search + Visit + Screenshot	10	100	72
+Testing: speak 36 short sentences in English on your Android Device	8.77327703863359	Android App Testing	4	100	72
+Testing: speak 36 short sentences in English on your Android Device	8.77327703863359	Testing: speak 36 short sentences in English on your Android Device	10	100	72
+Collect taxi fleets in a given U.S. city	8.74881865052798	Collect taxi fleets in a given U.S. city	10	100	72
+Collect taxi fleets in a given U.S. city	8.74881865052798	Collect Information about a given taxi fleet	8	100	72
+Find User Location Given Social Media Links	8.63401192065151	Find User Location Given Social Media Links	10	100	72
+Development	8.62706319522087	Development	8	100	72
+NAS SS Search + Visit + Screenshot	8.56000710368317	NAS SS Search + Visit + Screenshot	10	100	72
+NAS SS Search + Visit + Screenshot	8.56000710368317	Android App Testing	4	100	72
+NAS SS Search + Visit + Screenshot	8.56000710368317	Testing: speak 36 short sentences in English on your Android Device	10	100	72
+Tell a short story about your friend	9.22616316250762	Pictures in the Clouds	9	100	73
+Tell a short story about your friend	9.22616316250762	Tell a short story about your friend	10	100	73
+Please find missing fields	9.14039632916142	Please find missing fields	9	100	73
+NAS SS Search + Visit + Screenshot	9.11126378845506	NAS SS Search + Visit + Screenshot	10	100	73
+NAS SS Search + Visit + Screenshot	9.11126378845506	Android App Testing	9	100	73
+Find User Location Given Social Media Links	8.93981396365312	Find User Location Given Social Media Links	9	100	73
+Collect Product Information	8.93317169969325	Collect Product Information	10	100	73
+Casual Card Game Design Needed	8.8951963384607	Casual Card Game Design Needed	9	100	73
+Dedicated writer (Smart home) 	8.79462620895299	Dedicated writer (Smart home) 	10	100	73
+Looking for android developer	9.56717330473527	Looking for android developer	10	100	74
+OurEuphoria: Sign up	9.42703292451417	Facebook vote/support: Team	10	100	74
+OurEuphoria: Sign up	9.42703292451417	OurEuphoria: Sign up	10	100	74
+Find User Location Given Social Media Links	9.36386721524126	Find User Location Given Social Media Links	10	100	74
+Collect Product Information	9.34856112312735	Collect Product Information	10	100	74
+Write an Honest Review/Opinion: Your Card	9.25148198714128	Please find missing fields	8	100	74
+Write an Honest Review/Opinion: Your Card	9.25148198714128	Write an Honest Review/Opinion: Your Card	10	100	74
+Write an Honest Review/Opinion: Your Card	9.25148198714128	Image caption editing: Boring image caption to romantic image caption	7	100	74
+Development	9.22762628330888	Development	10	100	74
+Dress Website	9.22591421792782	Dress Website	10	100	74
+NAS SS Search + Visit + Screenshot	9.2160326018278	NAS SS Search + Visit + Screenshot	10	100	74
+NAS SS Search + Visit + Screenshot	9.2160326018278	Android App Testing	8	100	74
+Listen to a Country soung and answer a survey about it	9.15993989247762	[Hip-Hop/Rap] New Music Survey 	9	100	74
+Listen to a Country soung and answer a survey about it	9.15993989247762	Listen to a Country soung and answer a survey about it	10	100	74
+Listen to a Country soung and answer a survey about it	9.15993989247762	Listen to a Genre Category: R&B sound and answer a survey about it	7	100	74
+Collect Information about a given taxi fleet	9.01921413630908	Collect taxi fleets in a given U.S. city	4	100	74
+Collect Information about a given taxi fleet	9.01921413630908	Collect Information about a given taxi fleet	10	100	74
+You like and comment on youtube Videos	9.33502081579058	RD2: Comment on Video	10	100	75
+You like and comment on youtube Videos	9.33502081579058	Youtube: Comment + Subscribe	4	100	75
+You like and comment on youtube Videos	9.33502081579058	You like and comment on youtube Videos	10	100	75
+Send a preformatted email to a list of contact (through mail form)	9.2651927244065	Mip: Sign up + Screenshot	9	100	75
+Send a preformatted email to a list of contact (through mail form)	9.2651927244065	Send a preformatted email to a list of contact (through mail form)	10	100	75
+Find User Location Given Social Media Links	9.05093109474758	Find User Location Given Social Media Links	10	100	75
+Testing: speak 36 short sentences in English on your Android Device	8.92630336820311	NAS SS Search + Visit + Screenshot	6	100	75
+Testing: speak 36 short sentences in English on your Android Device	8.92630336820311	Testing: speak 36 short sentences in English on your Android Device	10	100	75
+HTML and CSS	8.91015627751184	HTML and CSS	9	100	75
+Write an Honest Review/Opinion: Your Card	8.87296677209743	Please find missing fields	4	100	75
+Write an Honest Review/Opinion: Your Card	8.87296677209743	Write an Honest Review/Opinion: Your Card	10	100	75
+Write an Honest Review/Opinion: Your Card	8.87296677209743	Image caption editing: Boring image caption to romantic image caption	9	100	75
+[Hip-Hop/Rap] New Music Survey 	8.85975044998105	[Hip-Hop/Rap] New Music Survey 	9	100	75
+[Hip-Hop/Rap] New Music Survey 	8.85975044998105	Listen to a Country soung and answer a survey about it	5	100	75
+[Hip-Hop/Rap] New Music Survey 	8.85975044998105	Listen to a song and answer a survey about it	4	100	75
+Business Logo	8.79628995903292	Business Logo	10	100	75
+Image caption editing: Boring image caption to romantic image caption	8.77308614079039	Please find missing fields	4	100	75
+Image caption editing: Boring image caption to romantic image caption	8.77308614079039	Write an Honest Review/Opinion: Your Card	10	100	75
+Image caption editing: Boring image caption to romantic image caption	8.77308614079039	Image caption editing: Boring image caption to romantic image caption	9	100	75
+Dedicated writer (Smart home) 	8.75481985693626	Dedicated writer (Smart home) 	9	100	75
+Two pages from Russian to English	9.4780829433479	Two pages from Russian to English	10	100	76
+Dress Website	9.43046967030059	Dress Website	10	100	76
+Development	9.34152811156412	Development	9	100	76
+Tell a short story about your friend	9.28839715244026	Tell a short story about your friend	9	100	76
+Download my ebook	9.27208905627631	Download my ebook	10	100	76
+Collect Product Information	9.25310596221756	Collect Product Information	10	100	76
+Casual Card Game Design Needed	9.23125287833923	Casual Card Game Design Needed	9	100	76
+[Hip-Hop/Rap] New Music Survey 	9.22994452510618	[Hip-Hop/Rap] New Music Survey 	10	100	76
+[Hip-Hop/Rap] New Music Survey 	9.22994452510618	Listen to a Country soung and answer a survey about it	10	100	76
+[Hip-Hop/Rap] New Music Survey 	9.22994452510618	Listen to a Genre Category: R&B sound and answer a survey about it	6	100	76
+Ecommerce website need	9.16234889903964	Ecommerce website need	10	100	76
+[Hip-Hop/Rap] New Music Survey 	10.0675808019875	[Hip-Hop/Rap] New Music Survey 	10	100	77
+[Hip-Hop/Rap] New Music Survey 	10.0675808019875	Listen to a Country soung and answer a survey about it	9	100	77
+[Hip-Hop/Rap] New Music Survey 	10.0675808019875	Listen to a Genre Category: R&B sound and answer a survey about it	7	100	77
+Extract purchased items from a shopping receipt	9.75680782124404	Extract purchased items from a shopping receipt	10	100	77
+You like and comment on youtube Videos	9.57196936065654	RD2: Comment on Video	10	100	77
+You like and comment on youtube Videos	9.57196936065654	Youtube: Comment + Subscribe	8	100	77
+You like and comment on youtube Videos	9.57196936065654	You like and comment on youtube Videos	10	100	77
+Two pages from Russian to English	9.49410827523369	Two pages from Russian to English	10	100	77
+Type Word	9.26198885321289	Type Word	10	100	77
+Image caption editing: Boring image caption to romantic image caption	9.22953661631406	Please find missing fields	8	100	77
+Image caption editing: Boring image caption to romantic image caption	9.22953661631406	Write an Honest Review/Opinion: Your Card	4	100	77
+Image caption editing: Boring image caption to romantic image caption	9.22953661631406	Image caption editing: Boring image caption to romantic image caption	10	100	77
+Testing: speak 36 short sentences in English on your Android Device	9.22563336116919	NAS SS Search + Visit + Screenshot	9	100	77
+Testing: speak 36 short sentences in English on your Android Device	9.22563336116919	Android App Testing	9	100	77
+Testing: speak 36 short sentences in English on your Android Device	9.22563336116919	Testing: speak 36 short sentences in English on your Android Device	10	100	77
+Collect Product Information	9.16356143750253	Collect Product Information	10	100	77
+Dress Website	9.10428204301498	Dress Website	9	100	77
+Ecommerce website need	9.04000306922588	Ecommerce website need	10	100	77
+Write a short summary of a company	9.57634439671099	Write a short summary of a company	10	100	78
+Please find missing fields	9.48259440743534	Please find missing fields	10	100	78
+Please find missing fields	9.48259440743534	Write an Honest Review/Opinion: Your Card	10	100	78
+Type Word	9.38264816747425	Type Word	10	100	78
+Dress Website	9.37919970105012	Dress Website	10	100	78
+OurEuphoria: Sign up	9.27422116498832	TTV-Share a page on your Facebook	9	100	78
+OurEuphoria: Sign up	9.27422116498832	OurEuphoria: Sign up	10	100	78
+Development	9.17548256866919	Development	9	100	78
+Find User Location Given Social Media Links	9.01424306605221	Find User Location Given Social Media Links	10	100	78
+Business Logo	8.96954226777815	Business Logo	10	100	78
+Send a preformatted email to a list of contact (through mail form)	8.96133042783591	Triple	8	100	78
+Send a preformatted email to a list of contact (through mail form)	8.96133042783591	Mip: Sign up + Screenshot	8	100	78
+Image caption editing: Boring image caption to romantic image caption	8.95944971437907	Please find missing fields	10	100	78
+Image caption editing: Boring image caption to romantic image caption	8.95944971437907	Write an Honest Review/Opinion: Your Card	10	100	78
+Two pages from Russian to English	9.38500016982827	Two pages from Russian to English	10	100	79
+Add atmosphere to architectural renderings in photoshop	9.2666368867396	Add atmosphere to architectural renderings in photoshop	10	100	79
+Add atmosphere to architectural renderings in photoshop	9.2666368867396	Dropbox_upload	6	75	79
+Job for IOS Device	9.16235070868946	Job for IOS Device	10	100	79
+Testing: speak 36 short sentences in English on your Android Device	9.01855055185496	Test Android App in 3 simple steps and answer simple questions	1	100	79
+Testing: speak 36 short sentences in English on your Android Device	9.01855055185496	Testing: speak 36 short sentences in English on your Android Device	10	100	79
+Dress Website	8.97525714661618	Dress Website	10	100	79
+Casual Card Game Design Needed	8.88874321538309	Casual Card Game Design Needed	9	100	79
+Develop a hybrid social App	8.87936579733545	Develop a hybrid social App	9	100	79
+Start development and designing of a mobile phone app	8.81101135042415	Start development and designing of a mobile phone app	9	100	79
+Image caption editing: Boring image caption to romantic image caption	8.73322804201731	Please find missing fields	8	100	79
+App developer for a new dating app	8.72340175703411	App developer for a new dating app	10	100	79
+Start development and designing of a mobile phone app	9.52720973921866	Start development and designing of a mobile phone app	10	100	80
+Collect Product Information	9.43492669164781	Collect Product Information	10	100	80
+Two pages from Russian to English	9.34218104040288	Two pages from Russian to English	10	100	80
+Collect Information about a given taxi fleet	9.28156970425648	Collect taxi fleets in a given U.S. city	8	100	80
+Collect Information about a given taxi fleet	9.28156970425648	Collect Information about a given taxi fleet	10	100	80
+HTML and CSS	9.2514038104921	HTML and CSS	10	100	80
+Looking for android developer	9.22221353810284	Looking for android developer	10	100	80
+You like and comment on youtube Videos	9.06358495575021	RD2: Comment on Video	10	100	80
+You like and comment on youtube Videos	9.06358495575021	Youtube: Comment + Subscribe	6	100	80
+You like and comment on youtube Videos	9.06358495575021	You like and comment on youtube Videos	10	100	80
+Find User Location Given Social Media Links	9.06311814192999	Find User Location Given Social Media Links	10	100	80
+Development	9.05576992549763	Development	10	100	80
+Type Word	9.03960854705941	Type Word	10	100	80
+Casual Card Game Design Needed	9.35460229399416	Casual Card Game Design Needed	10	100	81
+Looking for android developer	9.28482704990249	Looking for android developer	10	100	81
+Image caption editing: Boring image caption to romantic image caption	9.13441037948243	Please find missing fields	9	100	81
+Image caption editing: Boring image caption to romantic image caption	9.13441037948243	Image caption editing: Boring image caption to romantic image caption	9	100	81
+Ecommerce website need	8.9882029517779	Ecommerce website need	10	100	81
+Please find missing fields	8.94895542558463	Please find missing fields	9	100	81
+Please find missing fields	8.94895542558463	Image caption editing: Boring image caption to romantic image caption	9	100	81
+Image recognition	8.88791892909561	Copy paste 4 fields of information from a profile page	10	100	81
+Image recognition	8.88791892909561	Image recognition	9	100	81
+You like and comment on youtube Videos	8.84536045815567	RD2: Comment on Video	8	100	81
+You like and comment on youtube Videos	8.84536045815567	You like and comment on youtube Videos	10	100	81
+Find User Location Given Social Media Links	8.77439250550945	Find User Location Given Social Media Links	8	100	81
+Dress Website	8.75272225274542	Dress Website	8	100	81
+Extract purchased items from a shopping receipt	8.72180553454933	Extract purchased items from a shopping receipt	9	100	81
+Logo size changes	9.6658476885598	Logo size changes	10	100	82
+Dedicated writer (Smart home) 	9.35081952805485	Dedicated writer (Smart home) 	10	100	82
+NAS SS Search + Visit + Screenshot	9.32519029750339	NAS SS Search + Visit + Screenshot	10	100	82
+NAS SS Search + Visit + Screenshot	9.32519029750339	Test Android App in 3 simple steps and answer simple questions	5	100	82
+NAS SS Search + Visit + Screenshot	9.32519029750339	Android App Testing	10	100	82
+NAS SS Search + Visit + Screenshot	9.32519029750339	Testing: speak 36 short sentences in English on your Android Device	7	100	82
+Pinterest Pin: Houseplangallery	9.08204434366444	Pinterest Pin: Houseplangallery	10	100	82
+Please find missing fields	9.0740121042765	Please find missing fields	10	100	82
+Please find missing fields	9.0740121042765	Write an Honest Review/Opinion: Your Card	8	100	82
+Please find missing fields	9.0740121042765	Image caption editing: Boring image caption to romantic image caption	8	100	82
+Collect Information about a given taxi fleet	9.05677004414708	Collect taxi fleets in a given U.S. city	9	100	82
+Collect Information about a given taxi fleet	9.05677004414708	Collect Information about a given taxi fleet	10	100	82
+Collect taxi fleets in a given U.S. city	9.02021130048603	Collect taxi fleets in a given U.S. city	9	100	82
+Collect taxi fleets in a given U.S. city	9.02021130048603	Collect Information about a given taxi fleet	10	100	82
+Development	8.94609500334682	Development	10	100	82
+Job for IOS Device	8.9402689011758	Job for IOS Device	10	100	82
+Android App Testing	8.91326348230512	NAS SS Search + Visit + Screenshot	10	100	82
+Android App Testing	8.91326348230512	Test Android App in 3 simple steps and answer simple questions	5	100	82
+Android App Testing	8.91326348230512	Android App Testing	10	100	82
+Android App Testing	8.91326348230512	Testing: speak 36 short sentences in English on your Android Device	7	100	82
+Image caption editing: Boring image caption to romantic image caption	8.8494476211594	Please find missing fields	9	100	83
+Image caption editing: Boring image caption to romantic image caption	8.8494476211594	Write an Honest Review/Opinion: Your Card	7	100	83
+Image caption editing: Boring image caption to romantic image caption	8.8494476211594	Image caption editing: Boring image caption to romantic image caption	10	100	83
+Collect Product Information	8.8412099581231	Collect Product Information	10	100	83
+NAS SS Search + Visit + Screenshot	8.82963115479068	NAS SS Search + Visit + Screenshot	10	100	83
+NAS SS Search + Visit + Screenshot	8.82963115479068	Android App Testing	7	100	83
+Find User Location Given Social Media Links	8.77663465756075	Find User Location Given Social Media Links	10	100	83
+Please find missing fields	8.73956313349015	Please find missing fields	9	100	83
+Please find missing fields	8.73956313349015	Write an Honest Review/Opinion: Your Card	7	100	83
+Please find missing fields	8.73956313349015	Image caption editing: Boring image caption to romantic image caption	10	100	83
+Ecommerce website need	8.63823010727969	Ecommerce website need	10	100	83
+Pinterest Pin: Houseplangallery	8.49697356799154	Pinterest Pin: Houseplangallery	9	100	83
+Develop a hybrid social App	8.46207349398537	Develop a hybrid social App	9	100	83
+Write a short summary of a company	8.40782903331027	Write a short summary of a company	10	100	83
+Two pages from Russian to English	8.35267113662803	Two pages from Russian to English	9	100	83
+Please find missing fields	9.75525884191707	Please find missing fields	10	100	84
+Please find missing fields	9.75525884191707	Image caption editing: Boring image caption to romantic image caption	8	100	84
+Type Word	9.29200978410053	Type Word	9	100	84
+Image recognition	9.2448292129514	Image recognition	10	100	84
+Image recognition	9.2448292129514	View a webpage and tell us whether it is helpful	9	100	84
+Tourism Research Needed	9.1509951008079	Tourism Research Needed	10	100	84
+Download my ebook	9.13634341757637	Download my ebook	10	100	84
+Categorize a goal statement	8.98416956099891	Categorize a goal statement	10	100	84
+Add atmosphere to architectural renderings in photoshop	8.9395808265662	Add atmosphere to architectural renderings in photoshop	10	100	84
+Add atmosphere to architectural renderings in photoshop	8.9395808265662	Dropbox_upload	8	75	84
+3D game	8.81982463018242	3D game	10	100	84
+3D game	8.81982463018242	Triple	3	100	84
+3D game	8.81982463018242	Mip: Sign up + Screenshot	8	100	84
+Find User Location Given Social Media Links	8.72428449243511	Find User Location Given Social Media Links	10	100	84
+Business Logo	8.58844855072323	Business Logo	9	100	84
+Triple	9.37577482923231	3D game	1	100	85
+Triple	9.37577482923231	Triple	10	100	85
+Triple	9.37577482923231	Send a preformatted email to a list of contact (through mail form)	7	100	85
+Guide writer	9.31510960278262	Guide writer	10	100	85
+HTML and CSS	9.04111352473145	HTML and CSS	10	100	85
+Image caption editing: Boring image caption to romantic image caption	8.96498642924064	Please find missing fields	3	100	85
+Image caption editing: Boring image caption to romantic image caption	8.96498642924064	Image caption editing: Boring image caption to romantic image caption	10	100	85
+Develop a hybrid social App	8.85758482652279	Develop a hybrid social App	9	100	85
+Testing: speak 36 short sentences in English on your Android Device	8.84675457683239	NAS SS Search + Visit + Screenshot	8	100	85
+Testing: speak 36 short sentences in English on your Android Device	8.84675457683239	Android App Testing	8	100	85
+Testing: speak 36 short sentences in English on your Android Device	8.84675457683239	Testing: speak 36 short sentences in English on your Android Device	9	100	85
+[Hip-Hop/Rap] New Music Survey 	8.7699535995749	[Hip-Hop/Rap] New Music Survey 	10	100	85
+Write a short summary of a company	8.73624887816344	Write a short summary of a company	9	100	85
+Start development and designing of a mobile phone app	8.67632244772583	Start development and designing of a mobile phone app	10	100	85
+Download my ebook	9.43233721502995	Download my ebook	10	100	86
+Dedicated writer (Smart home) 	9.32156505096649	Dedicated writer (Smart home) 	10	100	86
+Triple	9.30039635817755	Triple	10	100	86
+Triple	9.30039635817755	Send a preformatted email to a list of contact (through mail form)	8	100	86
+Tell a short story about your friend	9.27034693486865	Calling	10	100	86
+Tell a short story about your friend	9.27034693486865	Tell a short story about your friend	10	100	86
+Collect taxi fleets in a given U.S. city	9.26104417891568	Collect taxi fleets in a given U.S. city	9	100	86
+Collect taxi fleets in a given U.S. city	9.26104417891568	Collect Information about a given taxi fleet	4	100	86
+Job for IOS Device	9.17557963872321	Job for IOS Device	10	100	86
+Collect Product Information	9.16422797429195	Collect Product Information	10	100	86
+Extract purchased items from a shopping receipt	9.15839948014381	Extract purchased items from a shopping receipt	10	100	86
+Image recognition	9.02130765710712	Copy paste 4 fields of information from a profile page	7	100	86
+Image recognition	9.02130765710712	Image recognition	9	100	86
+Casual Card Game Design Needed	8.93946601257343	Casual Card Game Design Needed	9	100	86
+Job for IOS Device	10.0922802457356	Job for IOS Device	10	100	87
+Find User Location Given Social Media Links	9.55817737319024	Find User Location Given Social Media Links	10	100	87
+Add atmosphere to architectural renderings in photoshop	9.51572757008978	Add atmosphere to architectural renderings in photoshop	10	100	87
+Casual Card Game Design Needed	9.31919260030085	Casual Card Game Design Needed	10	100	87
+Develop a hybrid social App	9.23878941030772	Develop a hybrid social App	10	100	87
+Tell a short story about your friend	9.2339540305211	Tell a short story about your friend	10	100	87
+Type Word	9.21761127344547	Type Word	9	100	87
+Business Logo	9.20560174866191	Business Logo	10	100	87
+Looking for android developer	9.20025136374532	Looking for android developer	10	100	87
+RD2: Comment on Video	9.46307161908225	Youtube: Comment + Subscribe	10	100	88
+RD2: Comment on Video	9.46307161908225	You like and comment on youtube Videos	9	100	88
+Image caption editing: Boring image caption to romantic image caption	9.41348759893188	Please find missing fields	10	100	88
+Image caption editing: Boring image caption to romantic image caption	9.41348759893188	Write an Honest Review/Opinion: Your Card	9	100	88
+Image caption editing: Boring image caption to romantic image caption	9.41348759893188	Image caption editing: Boring image caption to romantic image caption	10	100	88
+Job for IOS Device	9.39937667742419	Job for IOS Device	10	100	88
+OurEuphoria: Sign up	9.35752243264963	Facebook vote/support: Team	6	100	88
+OurEuphoria: Sign up	9.35752243264963	OurEuphoria: Sign up	10	100	88
+Find User Location Given Social Media Links	9.30286428444698	Find User Location Given Social Media Links	10	100	88
+Dress Website	9.29271419288449	Dress Website	10	100	88
+Dedicated writer (Smart home) 	9.24099259920148	Dedicated writer (Smart home) 	10	100	88
+Type Word	9.19507283450573	Type Word	10	100	88
+Youtube: Comment + Subscribe	9.07376508351665	Youtube: Comment + Subscribe	10	100	88
+Youtube: Comment + Subscribe	9.07376508351665	You like and comment on youtube Videos	9	100	88
+Casual Card Game Design Needed	9.07314815875776	Casual Card Game Design Needed	10	100	88
+Casual Card Game Design Needed	9.8764292553536	Casual Card Game Design Needed	10	100	89
+Job for IOS Device	9.57566339113757	Job for IOS Device	10	100	89
+Testing: speak 36 short sentences in English on your Android Device	9.43827359081133	Android App Testing	9	100	89
+Testing: speak 36 short sentences in English on your Android Device	9.43827359081133	Testing: speak 36 short sentences in English on your Android Device	10	100	89
+Extract purchased items from a shopping receipt	9.41246587600319	Extract purchased items from a shopping receipt	10	100	89
+Triple	9.3679598431362	3D game	10	100	89
+Triple	9.3679598431362	Triple	10	100	89
+Triple	9.3679598431362	Send a preformatted email to a list of contact (through mail form)	6	100	89
+You like and comment on youtube Videos	9.36461863681146	Youtube: Comment + Subscribe	9	100	89
+You like and comment on youtube Videos	9.36461863681146	You like and comment on youtube Videos	10	100	89
+Find User Location Given Social Media Links	9.34548876171196	Find User Location Given Social Media Links	10	100	89
+Dress Website	9.33715248551921	Dress Website	10	100	89
+Image recognition	9.22433140058977	Image recognition	10	100	89
+Image recognition	9.22433140058977	Play the GuesWhat!?	5	100	89
+Collect Product Information	9.2053256750465	Collect Product Information	10	100	89
+Two pages from Russian to English	9.37660932792184	Two pages from Russian to English	10	100	90
+Send a preformatted email to a list of contact (through mail form)	9.16072514821885	Triple	2	100	90
+Send a preformatted email to a list of contact (through mail form)	9.16072514821885	Send a preformatted email to a list of contact (through mail form)	10	100	90
+Please find missing fields	9.10044535552613	Please find missing fields	10	100	90
+Please find missing fields	9.10044535552613	Write an Honest Review/Opinion: Your Card	7	100	90
+Please find missing fields	9.10044535552613	Image caption editing: Boring image caption to romantic image caption	10	100	90
+Collect Information about a given taxi fleet	9.07756071524607	Collect taxi fleets in a given U.S. city	9	100	90
+Collect Information about a given taxi fleet	9.07756071524607	Collect Information about a given taxi fleet	10	100	90
+OurEuphoria: Sign up	8.86859538656896	OurEuphoria: Sign up	10	100	90
+Image caption editing: Boring image caption to romantic image caption	8.71443742297663	Please find missing fields	10	100	90
+Image caption editing: Boring image caption to romantic image caption	8.71443742297663	Write an Honest Review/Opinion: Your Card	7	100	90
+Image caption editing: Boring image caption to romantic image caption	8.71443742297663	Image caption editing: Boring image caption to romantic image caption	10	100	90
+Start development and designing of a mobile phone app	8.70862550093851	Start development and designing of a mobile phone app	10	100	90
+Write a short summary of a company	8.63213381076898	Write a short summary of a company	10	100	90
+Collect taxi fleets in a given U.S. city	8.52461552466119	Collect taxi fleets in a given U.S. city	9	100	90
+Collect taxi fleets in a given U.S. city	8.52461552466119	Collect Information about a given taxi fleet	10	100	90
+[Hip-Hop/Rap] New Music Survey 	8.47352695293593	[Hip-Hop/Rap] New Music Survey 	10	100	90
+[Hip-Hop/Rap] New Music Survey 	8.47352695293593	Listen to a Country soung and answer a survey about it	1	100	90
+Dress Website	9.74611384765218	Dress Website	10	100	91
+Find User Location Given Social Media Links	9.52844059355007	Find User Location Given Social Media Links	10	100	91
+NAS SS Search + Visit + Screenshot	9.33278075216301	NAS SS Search + Visit + Screenshot	10	100	91
+NAS SS Search + Visit + Screenshot	9.33278075216301	Android App Testing	7	100	91
+Development	9.28239231373114	Development	10	100	91
+Download my ebook	9.27341097267821	Download my ebook	10	100	91
+OurEuphoria: Sign up	9.23170303916662	OurEuphoria: Sign up	10	100	91
+Extract purchased items from a shopping receipt	9.05699747044513	Extract purchased items from a shopping receipt	10	100	91
+Collect taxi fleets in a given U.S. city	8.93390692557639	Collect taxi fleets in a given U.S. city	9	100	91
+Develop a hybrid social App	8.78028951421605	Develop a hybrid social App	8	100	91
+Two pages from Russian to English	9.52269231614903	Two pages from Russian to English	10	100	92
+Dedicated writer (Smart home) 	9.16333223295213	Dedicated writer (Smart home) 	10	100	92
+Download my ebook	9.12081121400858	Download my ebook	10	100	92
+Casual Card Game Design Needed	9.07256217806782	Casual Card Game Design Needed	9	100	92
+Collect Product Information	8.92473471034011	Collect Product Information	10	100	92
+Collect taxi fleets in a given U.S. city	8.91499018689739	Collect taxi fleets in a given U.S. city	10	100	92
+Develop a hybrid social App	8.90911939882837	Develop a hybrid social App	10	100	92
+Job for IOS Device	8.89010526779974	Job for IOS Device	10	100	92
+Looking for android developer	8.80932037733705	Looking for android developer	9	100	92
+Business Logo	8.93528087987029	Business Logo	10	100	93
+Find User Location Given Social Media Links	8.88804703286428	Find User Location Given Social Media Links	10	100	93
+Pinterest Pin: Houseplangallery	8.82087445530415	Pinterest Pin: Houseplangallery	10	100	93
+Start development and designing of a mobile phone app	8.76883323684564	Start development and designing of a mobile phone app	9	100	93
+Type Word	8.72918948520611	Type Word	9	100	93
+Collect Product Information	8.6749692191107	Collect Product Information	9	100	93
+You like and comment on youtube Videos	8.56269903692172	RD2: Comment on Video	8	100	93
+You like and comment on youtube Videos	8.56269903692172	Youtube: Comment + Subscribe	9	100	93
+You like and comment on youtube Videos	8.56269903692172	You like and comment on youtube Videos	9	100	93
+Dress Website	8.55341793817333	Dress Website	9	100	93
+Development	8.35968965949067	Development	9	100	93
+Testing: speak 36 short sentences in English on your Android Device	9.7687204315141	NAS SS Search + Visit + Screenshot	10	100	94
+Testing: speak 36 short sentences in English on your Android Device	9.7687204315141	Android App Testing	8	100	94
+Testing: speak 36 short sentences in English on your Android Device	9.7687204315141	Testing: speak 36 short sentences in English on your Android Device	10	100	94
+Guide writer	9.67646319276259	Guide writer	10	100	94
+Image caption editing: Boring image caption to romantic image caption	9.6370612490929	Image caption editing: Boring image caption to romantic image caption	10	100	94
+Pinterest Pin: Houseplangallery	9.47373497069856	Pinterest Pin: Houseplangallery	10	100	94
+Develop a hybrid social App	9.39608287490976	Develop a hybrid social App	10	100	94
+Tell a short story about your friend	9.38916355742948	Calling	8	100	94
+Tell a short story about your friend	9.38916355742948	Tell a short story about your friend	10	100	94
+Casual Card Game Design Needed	9.2902520390769	Casual Card Game Design Needed	9	100	94
+Find User Location Given Social Media Links	9.24116587058479	Find User Location Given Social Media Links	9	100	94
+Triple	9.23385517144577	3D game	3	100	94
+Triple	9.23385517144577	Triple	10	100	94
+Triple	9.23385517144577	Mip: Sign up + Screenshot	9	100	94
+Triple	9.23385517144577	Send a preformatted email to a list of contact (through mail form)	8	100	94
+Dress Website	9.17132576038133	Dress Website	8	100	94
+OurEuphoria: Sign up	9.32250519984952	TTV-Share a page on your Facebook	8	100	95
+OurEuphoria: Sign up	9.32250519984952	OurEuphoria: Sign up	10	100	95
+Job for IOS Device	9.18768740263952	Job for IOS Device	10	100	95
+Development	9.18515213599366	Development	9	100	95
+Casual Card Game Design Needed	9.08685283250307	Casual Card Game Design Needed	9	100	95
+Collect Information about a given taxi fleet	9.05251171196337	Collect taxi fleets in a given U.S. city	10	100	95
+Collect taxi fleets in a given U.S. city	8.95729422286522	Collect taxi fleets in a given U.S. city	10	100	95
+You like and comment on youtube Videos	8.93186470954086	RD2: Comment on Video	8	100	95
+You like and comment on youtube Videos	8.93186470954086	Youtube: Comment + Subscribe	8	100	95
+You like and comment on youtube Videos	8.93186470954086	You like and comment on youtube Videos	9	100	95
+Type Word	8.86436371389042	Type Word	8	100	95
+Develop a hybrid social App	8.75845647034192	Develop a hybrid social App	10	100	95
+NAS SS Search + Visit + Screenshot	8.73549885348687	Android App Testing	5	100	95
+NAS SS Search + Visit + Screenshot	8.73549885348687	Testing: speak 36 short sentences in English on your Android Device	6	100	95
+Dress Website	9.77172276629746	Dress Website	9	100	96
+Find User Location Given Social Media Links	9.56825541611954	Find User Location Given Social Media Links	10	100	96
+Please find missing fields	9.47915029707942	Please find missing fields	10	100	96
+Please find missing fields	9.47915029707942	Image caption editing: Boring image caption to romantic image caption	9	100	96
+Image recognition	9.38073250141492	Image recognition	10	100	96
+Collect Product Information	9.3240160232362	Collect Product Information	10	100	96
+Looking for android developer	9.14540905950346	Looking for android developer	10	100	96
+You like and comment on youtube Videos	9.11429155388483	RD2: Comment on Video	8	100	96
+You like and comment on youtube Videos	9.11429155388483	Youtube: Comment + Subscribe	10	100	96
+You like and comment on youtube Videos	9.11429155388483	You like and comment on youtube Videos	10	100	96
+Youtube: Comment + Subscribe	9.06535117507392	RD2: Comment on Video	8	100	96
+Youtube: Comment + Subscribe	9.06535117507392	Youtube: Comment + Subscribe	10	100	96
+Youtube: Comment + Subscribe	9.06535117507392	You like and comment on youtube Videos	10	100	96
+Pinterest Pin: Houseplangallery	9.00011182283109	Pinterest Pin: Houseplangallery	10	100	96
+Ecommerce website need	8.98178859063526	Ecommerce website need	9	100	96
+NAS SS Search + Visit + Screenshot	9.82067789022493	Test Android App in 3 simple steps and answer simple questions	5	100	97
+NAS SS Search + Visit + Screenshot	9.82067789022493	Android App Testing	8	100	97
+Find User Location Given Social Media Links	9.43607537357247	Find User Location Given Social Media Links	10	100	97
+Mip: Sign up + Screenshot	9.388823974371	3D game	10	100	97
+Mip: Sign up + Screenshot	9.388823974371	Triple	6	100	97
+Mip: Sign up + Screenshot	9.388823974371	Mip: Sign up + Screenshot	10	100	97
+Mip: Sign up + Screenshot	9.388823974371	Send a preformatted email to a list of contact (through mail form)	9	100	97
+Write an Honest Review/Opinion: Your Card	9.34331589777474	Please find missing fields	9	100	97
+Write an Honest Review/Opinion: Your Card	9.34331589777474	Write an Honest Review/Opinion: Your Card	10	100	97
+Add atmosphere to architectural renderings in photoshop	9.33708452906476	Add atmosphere to architectural renderings in photoshop	10	100	97
+Dress Website	9.2203996065114	Dress Website	10	100	97
+Ecommerce website need	9.13654020466236	Ecommerce website need	10	100	97
+Image recognition	9.09544604893114	Image recognition	9	100	97
+3D game	8.98800475800905	3D game	10	100	97
+3D game	8.98800475800905	Triple	6	100	97
+3D game	8.98800475800905	Mip: Sign up + Screenshot	10	100	97
+3D game	8.98800475800905	Send a preformatted email to a list of contact (through mail form)	9	100	97
+Type Word	8.89647597864245	Type Word	8	100	97
+Type Word	9.74514830786843	Type Word	10	100	98
+Develop a hybrid social App	9.67950703661907	Develop a hybrid social App	10	100	98
+Looking for android developer	9.62744492938525	Looking for android developer	10	100	98
+Development	9.59070443727026	Development	10	100	98
+Find User Location Given Social Media Links	9.5700386976811	Find User Location Given Social Media Links	9	100	98
+Image caption editing: Boring image caption to romantic image caption	9.52088173584596	Please find missing fields	9	100	98
+Image caption editing: Boring image caption to romantic image caption	9.52088173584596	Write an Honest Review/Opinion: Your Card	10	100	98
+Image caption editing: Boring image caption to romantic image caption	9.52088173584596	Image caption editing: Boring image caption to romantic image caption	10	100	98
+Tell a short story about your friend	9.40656211222918	Calling	5	100	98
+Tell a short story about your friend	9.40656211222918	Tell a short story about your friend	10	100	98
+Write an Honest Review/Opinion: Your Card	9.26821492617307	Please find missing fields	9	100	98
+Write an Honest Review/Opinion: Your Card	9.26821492617307	Write an Honest Review/Opinion: Your Card	10	100	98
+Write an Honest Review/Opinion: Your Card	9.26821492617307	Image caption editing: Boring image caption to romantic image caption	10	100	98
+Youtube: Comment + Subscribe	9.19787585512944	Youtube: Search + Watch + Screenshot	7	100	98
+Youtube: Comment + Subscribe	9.19787585512944	You like and comment on youtube Videos	8	100	98
+Job for IOS Device	9.66687567837246	Job for IOS Device	10	100	99
+Develop a hybrid social App	9.25804114566178	Develop a hybrid social App	10	100	99
+Tell a short story about your friend	9.19358262942268	Calling	4	100	99
+Tell a short story about your friend	9.19358262942268	Pictures in the Clouds	2	100	99
+Tell a short story about your friend	9.19358262942268	Tell a short story about your friend	10	100	99
+Casual Card Game Design Needed	9.18771198868971	Casual Card Game Design Needed	10	100	99
+Dress Website	9.18767540024427	Dress Website	9	100	99
+Collect Product Information	9.12513550790794	Collect Product Information	9	100	99
+Write a short summary of a company	9.07963105527525	Write a short summary of a company	10	100	99
+NAS SS Search + Visit + Screenshot	9.07340888399227	NAS SS Search + Visit + Screenshot	9	100	99
+NAS SS Search + Visit + Screenshot	9.07340888399227	Android App Testing	3	100	99
+NAS SS Search + Visit + Screenshot	9.07340888399227	Testing: speak 36 short sentences in English on your Android Device	9	100	99
+Add atmosphere to architectural renderings in photoshop	9.07142405150896	Add atmosphere to architectural renderings in photoshop	9	100	99
+Ecommerce website need	8.98731660796277	Ecommerce website need	10	100	99
+Tell a short story about your friend	9.44367024176401	Calling	10	100	100
+Tell a short story about your friend	9.44367024176401	Tell a short story about your friend	10	100	100
+NAS SS Search + Visit + Screenshot	9.1644779400461	NAS SS Search + Visit + Screenshot	10	100	100
+NAS SS Search + Visit + Screenshot	9.1644779400461	Test Android App in 3 simple steps and answer simple questions	3	100	100
+NAS SS Search + Visit + Screenshot	9.1644779400461	Android App Testing	5	100	100
+NAS SS Search + Visit + Screenshot	9.1644779400461	Testing: speak 36 short sentences in English on your Android Device	8	100	100
+HTML and CSS	9.10260144056982	HTML and CSS	10	100	100
+Job for IOS Device	9.03391076981267	Job for IOS Device	10	100	100
+Dress Website	8.91644641890999	Dress Website	9	100	100
+Download my ebook	8.87600930519834	Download my ebook	9	100	100
+Development	8.8575733090216	Development	10	100	100
+Casual Card Game Design Needed	8.84956506910579	Casual Card Game Design Needed	10	100	100
+Youtube: Comment + Subscribe	8.73476356269859	RD2: Comment on Video	10	100	100
+Youtube: Comment + Subscribe	8.73476356269859	Youtube: Comment + Subscribe	10	100	100
+Youtube: Comment + Subscribe	8.73476356269859	Youtube: Search + Watch + Screenshot	5	100	100
+Youtube: Comment + Subscribe	8.73476356269859	You like and comment on youtube Videos	8	100	100
+Collect taxi fleets in a given U.S. city	8.72993817552168	Collect taxi fleets in a given U.S. city	9	100	100
