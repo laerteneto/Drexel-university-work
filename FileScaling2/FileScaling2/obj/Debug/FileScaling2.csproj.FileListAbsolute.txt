@@ -1,0 +1,8 @@
+C:\Users\larissaf\Desktop\FileScaling2\FileScaling2\bin\Debug\FileScaling2.exe.config
+C:\Users\larissaf\Desktop\FileScaling2\FileScaling2\bin\Debug\FileScaling2.exe
+C:\Users\larissaf\Desktop\FileScaling2\FileScaling2\bin\Debug\FileScaling2.pdb
+C:\Users\larissaf\Desktop\FileScaling2\FileScaling2\obj\Debug\FileScaling2.csprojResolveAssemblyReference.cache
+C:\Users\larissaf\Desktop\FileScaling2\FileScaling2\obj\Debug\FileScaling2.Properties.Resources.resources
+C:\Users\larissaf\Desktop\FileScaling2\FileScaling2\obj\Debug\FileScaling2.csproj.GenerateResource.Cache
+C:\Users\larissaf\Desktop\FileScaling2\FileScaling2\obj\Debug\FileScaling2.exe
+C:\Users\larissaf\Desktop\FileScaling2\FileScaling2\obj\Debug\FileScaling2.pdb
