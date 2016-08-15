@@ -1,0 +1,55 @@
+User W2 1 7.72 Ok
+User D2 2 7.70 Ok
+User H1 3 7.67 Ok
+User C1 4 7.61 Ok
+User U2 5 7.59 Ok
+User S2 6 7.57 Ok
+User U1 7 7.49 Ok
+User E2 8 7.45 Ok
+User O1 9 7.40 Ok
+User C2 10 7.40 Ok
+User G2 11 7.34 Ok
+User G1 12 7.34 Ok
+User K1 13 7.33 Ok
+User Q1 14 7.33 Ok
+User L1 15 7.32 Ok
+User V1 16 7.31 Ok
+User V2 17 7.30 Ok
+User K2 18 7.27 Ok
+User A2 19 7.22 Ok
+User Q2 20 7.17 Ok
+User N2 21 7.14 Ok
+User X2 22 7.14 Ok
+User X1 23 7.13 Ok
+User Y1 24 7.11 Ok
+User S1 25 7.07 Ok
+User N1 26 7.07 Ok
+User A1 27 7.06 Ok
+User J1 28 7.04 Ok
+User M2 29 7.04 Ok
+User O2 30 7.03 Ok
+User P2 31 7.03 Ok
+User I2 32 7.03 Ok
+User F2 33 7.02 Ok
+User D1 34 7.02 Ok
+User P1 35 7.00 Ok
+User F1 36 7.00 Ok
+User R1 37 6.97 Ok
+User B2 38 6.97 Ok
+User M1 39 6.94 Ok
+User H2 40 6.93 Ok
+User Z1 41 6.92 Ok
+User E1 42 6.92 Ok
+User B1 43 6.90 Ok
+User T1 44 6.89 Ok
+User R2 45 6.86 Ok
+User L2 46 6.86 Ok
+User I1 47 6.86 Ok
+User J2 48 6.81 Ok
+User T2 49 6.80 Ok
+User W1 50 6.60 Ok
+
+Summary Report
+Good 0
+Ok 50
+Bad 0
