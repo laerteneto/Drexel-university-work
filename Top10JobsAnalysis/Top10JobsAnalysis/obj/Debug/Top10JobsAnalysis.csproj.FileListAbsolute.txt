@@ -1,0 +1,16 @@
+C:\Users\larissaf\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\bin\Debug\Top10JobsAnalysis.exe.config
+C:\Users\larissaf\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\bin\Debug\Top10JobsAnalysis.exe
+C:\Users\larissaf\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\bin\Debug\Top10JobsAnalysis.pdb
+C:\Users\larissaf\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\obj\Debug\Top10JobsAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\larissaf\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\obj\Debug\Top10JobsAnalysis.Properties.Resources.resources
+C:\Users\larissaf\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\obj\Debug\Top10JobsAnalysis.csproj.GenerateResource.Cache
+C:\Users\larissaf\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\obj\Debug\Top10JobsAnalysis.exe
+C:\Users\larissaf\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\obj\Debug\Top10JobsAnalysis.pdb
+C:\Users\Laerte\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\bin\Debug\Top10JobsAnalysis.exe.config
+C:\Users\Laerte\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\obj\Debug\Top10JobsAnalysis.exe
+C:\Users\Laerte\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\obj\Debug\Top10JobsAnalysis.pdb
+C:\Users\Laerte\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\bin\Debug\Top10JobsAnalysis.exe
+C:\Users\Laerte\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\bin\Debug\Top10JobsAnalysis.pdb
+C:\Users\Laerte\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\obj\Debug\Top10JobsAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Laerte\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\obj\Debug\Top10JobsAnalysis.Properties.Resources.resources
+C:\Users\Laerte\Desktop\Top10JobsAnalysis\Top10JobsAnalysis\obj\Debug\Top10JobsAnalysis.csproj.GenerateResource.Cache
